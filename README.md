@@ -2,8 +2,8 @@
 * [Introduction](https://github.com/9x9go/reviews/blob/main/README.md#introduction)
 * [Acknowledgement]
 * [Principles of 9 x 9 Go]
-* [9 x 9 Go Proverbs]
-* [9 x 9 Go Big Matches]
+  * [9 x 9 Go Proverbs]
+  * [9 x 9 Go Big Matches]
 * [Editors' Notes]
 
 ## Introduction
