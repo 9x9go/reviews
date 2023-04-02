@@ -34,7 +34,7 @@ We list some new links on 9 x 9 Go below:
 - [9 x 9 Go books](http://www.9x9go.org) 
 
 # 9 x 9 Go Big Matches
-Below are selected 9 x 9 Go games of 9 Dan professional Go players. The winners are highlighted. Clean game records (SGF and PDF) are given for your perusal. A Master of Go 9p+ gives comments.
+Below are WGA studied games of 9 x 9 Go. The winners'names are highlighted. Clean game records are given in SGF and PDF for your perusal. A Master of Go 9p+ gives comments.
 | Black                 | White              | Komi   |Results| SGF   | PDF   | PDF with Comments | 
 | --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
 | `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | NG001 | NG001  | NG001C   |
