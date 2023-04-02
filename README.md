@@ -15,7 +15,7 @@ I also gratefully thank the following organizations
 - Google, Inc. for free E-mail account, mailbox space, and web host service.
 
 # Principles of 9 x 9 Go
-1. [The rules of 9 x 9 Go](/pdf/P001.pdf)
+1. [The rules of 9 x 9 Go](https://9x9go.github.io/reviews/pdf/P001.pdf)
 
 # 9 x 9 Go Proverbs
 - The proper komi is 7.
