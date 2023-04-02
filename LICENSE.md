@@ -5,7 +5,7 @@ Copyright information for the templates, layouts and menus can be found on the f
 
 Aside from the above, the license for all OTHER content in this repo is as follows:
 
-Copyright 2023 Monte Kietpawpan ("Monteo da Westi") 
+Copyright © 2023 Monte Kietpawpan ("Monteo da Westi") 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of these files (the "files"), 
 to deal in the file without restriction, including without limitation the rights to use, copy, modify, 
