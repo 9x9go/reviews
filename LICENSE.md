@@ -1,11 +1,12 @@
-The code in this repository currently relies on Population2's free html template, including all html files
+The code in this repository currently relies on Population2's free html template, including all html files.
+
 Aside from the above, the license for all OTHER content in this repo is as follows:
 
 ----------------------------------------
 
 Copyright 2023 Monte Kietpawpan ("Monteo da Westi") 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of these files(the "files"), 
+Permission is hereby granted, free of charge, to any person obtaining a copy of these files (the "files"), 
 to deal in the file without restriction, including without limitation the rights to use, copy, modify, 
 merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to 
 whom the Software is furnished to do so, subject to the following conditions:
