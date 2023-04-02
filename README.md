@@ -14,3 +14,5 @@ I also gratefully thank the following organizations
 - Population2 for generously giving the well-designed website template.
 - Google, Inc. for free E-mail account, mailbox space, and web host service.
 
+# Principles of 9 x 9 Go
+1. [The Rules of 9 x 9 Go](/../pdf/P001.pdf)
