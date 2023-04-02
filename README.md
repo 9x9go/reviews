@@ -2,6 +2,7 @@
 * [Introduction](https://github.com/9x9go/reviews/blob/main/README.md#introduction)
 * [Acknowledgement](https://github.com/9x9go/reviews/blob/main/README.md#acknowledgement)
 * [Principles of 9 x 9 Go](https://github.com/9x9go/reviews/blob/main/README.md#principles-of-9-x-9-go)
+  * [9 x 9 Go Principles]
   * [9 x 9 Go Proverbs](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-proverbs)
   * [9 x 9 Go Big Matches](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-big-matches)
 * [Editors' Notes](https://github.com/9x9go/reviews/blob/main/README.md#editors-notes) 
