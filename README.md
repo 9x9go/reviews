@@ -35,7 +35,7 @@ Principles of 9 x 9 explain how the game of 9 x 9 Go is actually played under Ch
 - Nearly dead stones are hopeless but can be helpful.
 - Empty triangles are not always bad.
 
-# 9 x 9 Go Big Matches
+## 9 x 9 Go Big Matches
 Below are WGA analyzed games of 9 x 9 Go. The winners'names are highlighted. Game records are given in SGF and PDF for your perusal. A Master of Go 9p+ gave comments. Crazy Stone 7 Dan checked the game results. Drago printed.
 | Black                 | White              | Komi   |Results| SGF   | PDF   | PDF with Comments | 
 | --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
