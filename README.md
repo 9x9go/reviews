@@ -3,11 +3,11 @@
 
 # Credits and thanks
 I thank gratefully the following Go people:
-- [David J. Wu](https://github.com/9x9go/reviews) and contributors for making KataGo the strongest open source superhuman Go bot.
-- Yuji Ichikawa for kind permission on the use of A Master of Go, which makes KataGo able to run on iOS.
-- Yasushi Tanase for creating a good Go server, Go Quest.
-- Gillles Arcas for giving the open source Go diagram editing freeware, Drago
-- Arno Hollosi, Morten Pahle, and others at Sensei's Library, which make me know much more about Go.
+- [David J. Wu](https://github.com/lightvector) and contributors for making [KataGo](https://github.com/lightvector/KataGo) the strongest open source superhuman Go bot.
+- [Yuji Ichikawa](https://github.com/y-ich) for kind permission on the use of [A Master of Go](https://apps.apple.com/us/app/a-master-of-go/id1442035374), which makes KataGo able to run on iOS.
+- Yasushi Tanase for creating a good Go server, [Go Quest](http://wars.fm/go9).
+- [Gillles Arcas](https://github.com/GillesArcas) for giving the open source Go diagram editing freeware, [Drago](https://godrago.net/)
+- Arno Hollosi, Morten Pahle, and others at [Sensei's Library](https://senseis.xmp.net/), which make me know much more about Go.
 
 I also gratefully thank the following organizations
 - GitHubm Inc, for free web hosting and code environment 
