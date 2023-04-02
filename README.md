@@ -3,7 +3,7 @@
 
 # Acknowledgement
 I thank gratefully the following Go people:
-- [David J. Wu ("Lightvector")](https://github.com/lightvector) and contributors for making [KataGo](https://github.com/lightvector/KataGo) the strongest open source superhuman Go bot.
+- [David J. Wu ("Lightvector")](https://github.com/lightvector) and contributors for making [KataGo](https://github.com/lightvector/KataGo), the strongest open source superhuman Go bot.
 - [Yuji Ichikawa](https://github.com/y-ich) for kind permission on the use of [A Master of Go](https://apps.apple.com/us/app/a-master-of-go/id1442035374), which makes KataGo able to run on iOS.
 - Yasushi Tanase for creating the best 9 x 9 Go server, [Go Quest](http://wars.fm/go9).
 - [Gillles Arcas](https://github.com/GillesArcas) for giving the open source Go diagram editing freeware, [Drago](https://godrago.net/)
