@@ -5,8 +5,6 @@ Copyright information for the templates, layouts and menus can be found on the f
 
 Aside from the above, the license for all OTHER content in this repo is as follows:
 
-----------------------------------------
-
 Copyright 2023 Monte Kietpawpan ("Monteo da Westi") 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of these files (the "files"), 
@@ -22,8 +20,6 @@ NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPO
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE FILES OR THE USE OR OTHER DEALINGS IN THE FILES.
-
-----------------------------------------
 
 Additional disclaimer from Monte Kietpawpan ("Monteo da Westi") regarding the above license and Reviews's
 repository (https://github.com/9x9go/reviews):
