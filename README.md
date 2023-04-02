@@ -23,10 +23,11 @@ We also gratefully thank the following organizations
 - Google, Inc. for free E-mail account, mailbox space, and web host service.
 
 ## Principles of 9 x 9 Go
+### 9 x 9 Go Principles
 Principles of 9 x 9 explain how the game of 9 x 9 Go is actually played under Chinese rules (komi being 7). 
 1. [The rules of 9 x 9 Go](https://9x9go.github.io/reviews/pdf/P001.pdf)
 
-## 9 x 9 Go Proverbs
+### 9 x 9 Go Proverbs
 9 x 9 Go proverbs are phrases or sentences that give advices on how 9 x 9 Go is best played, or say things that are generally true about the winning strategy and tactics exploited by A Master of Go, 9p+. 
 - The proper komi is 7.
 - Tengen is the best opening
@@ -35,7 +36,7 @@ Principles of 9 x 9 explain how the game of 9 x 9 Go is actually played under Ch
 - Nearly dead stones are hopeless but can be helpful.
 - Empty triangles are not always bad.
 
-## 9 x 9 Go Big Matches
+### 9 x 9 Go Big Matches
 Below are WGA analyzed games of 9 x 9 Go. The winners'names are highlighted. Game records are given in SGF and PDF for your perusal. A Master of Go 9p+ gave comments. Crazy Stone 7 Dan checked the game results. Drago printed.
 | Black                 | White              | Komi   |Results| SGF   | PDF   | PDF with Comments | 
 | --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
