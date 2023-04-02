@@ -13,4 +13,4 @@ I also gratefully thank the following organizations
 - GitHubm Inc, for free web hosting and code environment 
 - Population2 for generously giving the well-designed website template.
 - Google, Inc. for free E-mail account, mailbox space, and web host service.
-- Microsoft, Inc. for affordable software licenses for business.
+
