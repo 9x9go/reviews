@@ -34,8 +34,8 @@ We list some new links on 9 x 9 Go below:
 - [9 x 9 Go books](http://www.9x9go.org) 
 
 # 9 x 9 Go Big Matches
-| Black        | White        | Results| View  | SGF  |
-| ------------ |:------------:| ------:| -----:|-----:|
-| Name 8D      | Name 8 D     | B+R    |       |      |
-| col 2 is     | centered     |   $12  |       |      |
-| zebra stripes| are neat     |    $1  |       |      |
+| Black                 | White          | Results| PDF   | SGF    |
+| ----------------+---- |:--------------:| ------:| -----:|-------:|
+| Naoki Miyamoto 8p     | Go Seigen 9p   | B+4    | NG001 | NG001  |
+| A Master of Go 9p+    | :AyaXBot 7D    | B+R    |       |        |
+
