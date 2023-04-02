@@ -19,9 +19,6 @@ I also gratefully thank the following organizations
 
 # Editors' Notes
 We list some links on 9 x 9 Go below:
-- History of 9 x 9 Go
-- Laws and Theorem
-- Go AI ratings
-- Top 9 x 9 Go AI
-- KataGo Updates
+- [History of 9 x 9 Go](https://9x9go.github.ic/reviews/history.html)
+- [Laws and Theorem](https://9x9go.github.ic/reviews/theroem001.html)
 - [9 x 9 Go books](http://wwww.9x9go.org) 
