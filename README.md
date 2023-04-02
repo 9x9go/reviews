@@ -1,5 +1,5 @@
 # 9 x 9 Go Reviews
-* [Introduction](https://github.com/9x9go/reviews/blob/main/README.md#acknowledgement)
+* [Introduction](https://github.com/9x9go/reviews/blob/main/README.md#introduction)
 * [Acknowledgement]
 * [Principles of 9 x 9 Go]
 * [9 x 9 Go Proverbs]
