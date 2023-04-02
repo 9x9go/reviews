@@ -16,3 +16,12 @@ I also gratefully thank the following organizations
 
 # Principles of 9 x 9 Go
 1. [The Rules of 9 x 9 Go](/pdf/P001.pdf)
+
+# Editors' Notes
+We list some links on 9 x 9 Go below:
+- History of 9 x 9 Go
+- Laws and Theorem
+- Go AI ratings
+- Top 9 x 9 Go AI
+- KataGo Updates
+- [9 x 9 Go books](http://wwww.9x9go.org) 
