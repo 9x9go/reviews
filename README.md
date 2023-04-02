@@ -15,7 +15,15 @@ I also gratefully thank the following organizations
 - Google, Inc. for free E-mail account, mailbox space, and web host service.
 
 # Principles of 9 x 9 Go
-1. [The Rules of 9 x 9 Go](/pdf/P001.pdf)
+1. [The rules of 9 x 9 Go](/pdf/P001.pdf)
+
+# Proverbs
+- The proper komi is 7
+- Tengen is the best opening
+- The enemy key point is your key point.
+- Kill spaces, not stones.
+- Nearly dead stones are hopeless but can be helpful.
+- Empty triangles are not always bad.
 
 # Editors' Notes
 We list some new links on 9 x 9 Go below:
