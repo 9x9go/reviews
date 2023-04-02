@@ -18,7 +18,7 @@ I also gratefully thank the following organizations
 1. [The rules of 9 x 9 Go](/pdf/P001.pdf)
 
 # 9 x 9 Go Proverbs
-- The proper komi is 7
+- The proper komi is 7.
 - Tengen is the best opening
 - The enemy key point is your key point.
 - Kill spaces, not stones.
