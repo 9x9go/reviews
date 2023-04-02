@@ -3,7 +3,7 @@
 
 # Credits and thanks
 I thank gratefully the following Go people:
-- David J. Wu and contributors for making KataGo the strongest open source superhuman Go bot.
+- [David J. Wu](https://github.com/9x9go/reviews) and contributors for making KataGo the strongest open source superhuman Go bot.
 - Yuji Ichikawa for kind permission on the use of A Master of Go, which makes KataGo able to run on iOS.
 - Yasushi Tanase for creating a good Go server, Go Quest.
 - Gillles Arcas for giving the open source Go diagram editing freeware, Drago
