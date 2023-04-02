@@ -15,9 +15,11 @@ I also gratefully thank the following organizations
 - Google, Inc. for free E-mail account, mailbox space, and web host service.
 
 # Principles of 9 x 9 Go
+Principles of 9 x 9 explain how the game of 9 x 9 Go is actually played under Chinese rules (komi being 7). For example,
 1. [The rules of 9 x 9 Go](https://9x9go.github.io/reviews/pdf/P001.pdf)
 
 # 9 x 9 Go Proverbs
+9 x 9 Go proverbs are phrases or sentences that give advices on how 9 x 9 Go is best played, or say things that are generally true about the strategy and tactics exploited by A Master of Go, 9p+. For example,
 - The proper komi is 7.
 - Tengen is the best opening
 - The enemy key point is your key point.
