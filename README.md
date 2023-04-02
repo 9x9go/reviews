@@ -32,3 +32,10 @@ We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.ic/reviews/history.html)
 - [Laws and Theorem](https://9x9go.github.ic/reviews/theroem001.html)
 - [9 x 9 Go books](http://www.9x9go.org) 
+
+# 9 x 9 Go Big Matches
+| Black        | White        | Results| View | SGF
+| ------------- |:-------------:| -----:| -----:|
+| Name 8D      | Name 8 D | B+R |       |       |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
