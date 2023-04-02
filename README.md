@@ -39,7 +39,5 @@ Below are selected 9 x 9 Go games of the top players. A Master of Go 9p+ gives c
 | --------------------- |:------------------:| ------:| -----:|-------:|---------:|
 | Naoki Miyamoto 8p     | Go Seigen 9p       | B+4    | NG001 | NG001  | NG001C   |
 | Go Seigen 9p          | Naoki Miyamoto 8p  | B+4    | NG001 | NG001  | NG001C   |
-| Monteo da Westi 8d    | Hirofumi 6p        | B+2    |       |        |          |
-| A Master of Go 9p+    | Crazy Stone 7D     | B+R    |       |        |          |
 | Murakawa Daisuke 9p   | Iyama Yuta 9p      |        | B+R   |        |          |        
 
