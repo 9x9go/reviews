@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE FILES OR THE USE OR OTHER DEALINGS IN THE FILES
 
 ----------------------------------------
 
-Additional disclaimer from Monte Kietpawpab ("Monteo da Westi") regarding the above license and Reviews's
+Additional disclaimer from Monte Kietpawpan ("Monteo da Westi") regarding the above license and Reviews's
 repository (https://github.com/9x9go/reviews):
 I am providing code in the repository to you under an open source license. Because this is my
 personal repository, the license you receive to my code is from me, and not my employer 
