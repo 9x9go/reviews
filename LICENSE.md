@@ -1,4 +1,9 @@
-The code in this repository currently relies on Population2's free html template, including all html files.
+The html/css/js codes in this repository currently rely on Edwin Lunandy (http://population-2.com/)'s free template, called Typo Today. The intellectual property rights and copyrights of this template, design and menu belong to Edwin Lunandy (http://population-2.com).
+
+Copyright information for the templates, layouts and menus can be found on the respective designer’s, developer’s or author’s websites. For more information on the copyright and/or IPR of individual templates, layouts or menus, please visit the respective designer’s website.
+
+We does not credit or claim ownership, copyright or IPR in any way for any template, design or menu displayed or used on our website.
+
 
 Aside from the above, the license for all OTHER content in this repo is as follows:
 
