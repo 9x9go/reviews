@@ -21,4 +21,4 @@ I also gratefully thank the following organizations
 We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.ic/reviews/history.html)
 - [Laws and Theorem](https://9x9go.github.ic/reviews/theroem001.html)
-- [9 x 9 Go books](http://wwww.9x9go.org) 
+- [9 x 9 Go books](http://www.9x9go.org) 
