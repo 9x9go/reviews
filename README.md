@@ -48,6 +48,6 @@ Below are WGA analyzed games of 9 x 9 Go. The winners'names are highlighted. Gam
 ## Editors' Notes
 We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.io/reviews/history.html)
-- [Laws and Theorem](https://9x9go.github.io/reviews/theroem001.html)
+- [Laws and Theorem](https://9x9go.github.io/reviews/theorem001.html)
 - [9 x 9 Go books](http://www.9x9go.org) 
 
