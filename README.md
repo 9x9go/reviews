@@ -34,7 +34,7 @@ We list some new links on 9 x 9 Go below:
 - [9 x 9 Go books](http://www.9x9go.org) 
 
 # 9 x 9 Go Big Matches
-Below are selected 9 x 9 Go games of 9 Dan professional Go players. The winners have their names hightlighted.
+Below are selected 9 x 9 Go games of 9 Dan professional Go players. The winners have their names highlighted.
 A Master of Go 9p+ gives comments.
 | Black                 | White              | Komi   |Results| PDF   | SGF    | Comments | 
 | --------------------- |:------------------ | ------:|:------| -----:|-------:|---------:|
