@@ -49,7 +49,7 @@ Below are analyzed games of 9 x 9 Go. The winners are highlighted. A Master of G
 |2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | 003 |   |    |     
 |2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | 005 |   |    |
 |2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | 004 |   |    |     
-|20xx| Murakawa Daisuke 9p     | `Iyama Yuta`    9p  | 6.5    |W+1.5  | 006 |   |    |     
+|2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | 006 |   |    |     
 
 
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
