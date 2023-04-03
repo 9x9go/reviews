@@ -43,10 +43,10 @@ Below are WGA analyzed games of 9 x 9 Go. The winners'names are highlighted. Gam
 | --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
 | `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | [001](https://9x9go.github.io/reviews/sgf/Japan/001.sgf) | [A01](https://9x9go.github.io/reviews/pdf/A01.pdf)|     |
 | `Go Seigen`        9p   | Naoki Miyamoto 8p  | 0      |B+4    | [002](https://9x9go.github.io/reviews/sgf/Japan/002.sgf) | [A02](https://9x9go.github.io/reviews/pdf/A02.pdf)|     |
-| Cho Hunhyun 9p   | `Yuki Satoshi`     9p  | 6.5    |W+R | 003 |   |    |     
-| `Yuki Satoshi` 9p   | Cho Hunhyun     9p  | 6.5    |B+T | 003 |   |    |     
-| `Cho Hunhyun` 9p   | Yuki Satoshi     9p  | 6.5    |B+R | 003 |   |    |     
-| Murakawa Daisuke 9p   | `Iyama Yuta`     9p  | 6.5    |W+1.5  | 003 |   |    |     
+| Cho Hunhyun 9p          | `Yuki Satoshi` 9p  | 6.5    |W+R    | 003 |   |    |     
+| `Yuki Satoshi` 9p       | Cho Hunhyun    9p  | 6.5    |B+T    | 003 |   |    |     
+| `Cho Hunhyun` 9p        | Yuki Satoshi   9p  | 6.5    |B+R    | 003 |   |    |     
+| Murakawa Daisuke 9p     | `Iyama Yuta`   9p  | 6.5    |W+1.5  | 003 |   |    |     
 
 
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
