@@ -43,13 +43,13 @@ Below are the selected 9 Dan professional players' 9 x 9 Go game records and the
 |:---:| --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
 |1968| `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | [001](https://9x9go.github.io/reviews/sgf/Japan/001.sgf) | [A01](https://9x9go.github.io/reviews/pdf/A01.pdf)|     |
 |1968| `Go Seigen`        9p   | Naoki Miyamoto 8p  | 0      |B+4    | [002](https://9x9go.github.io/reviews/sgf/Japan/002.sgf) | [A02](https://9x9go.github.io/reviews/pdf/A02.pdf)|     |
-|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+T    | 003 |   |    |
-|2000| `Yuki Satoshi`    9p    | Takemiya Masaki 9p  | 6.5    |B+R    | 004 |   |    |     
-|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+2.5  | 005 |   |    |
-|2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | 006 |   |    |     
-|2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | 007 |   |    |
-|2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | 008 |   |    |     
-|2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | 009 |   |    |     
+|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+T    | 003 |  A03 |    |
+|2000| `Yuki Satoshi`    9p    | Takemiya Masaki 9p  | 6.5    |B+R    | 004 |  A04 |    |     
+|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+2.5  | 005 |  A05 |    |
+|2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | 006 |  A06 |    |     
+|2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | 007 |  A07 |    |
+|2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | 008 |  A08 |    |     
+|2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | 009 |  A09 |    |     
 
 
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
