@@ -38,7 +38,7 @@ The first principle of 9 x 9 Go explains how the game of 9 x 9 Go is actually pl
 - Empty triangles are not always bad.
 
 ## 9 x 9 Go Big Matches
-Below are WGA analyzed games of 9 x 9 Go. The winners'names are highlighted. Game records are given in SGF and PDF for your perusal. A Master of Go 9p+ gave comments. Crazy Stone 7 Dan checked the game results. Drago printed.
+Below are WGA analyzed games of 9 x 9 Go. The winners'names are highlighted. Game records are given in SGF and PDF for your perusal. A Master of Go 9p+ gave comments. Crazy Stone 7 Dan re-checked the results.
 | Black                 | White              | Komi   |Results| SGF   | PDF<sup>*</sup>   | Comments<sup>*</sup> | 
 | --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
 | `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | 001 | [1968a](https://9x9go.github.io/reviews/pdf/1968a.pdf)|     |
