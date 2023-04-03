@@ -39,12 +39,13 @@ The first principle of 9 x 9 Go explains how the game of 9 x 9 Go is actually pl
 
 ## 9 x 9 Go Big Matches
 Below are WGA analyzed games of 9 x 9 Go. The winners'names are highlighted. Game records are given in SGF and PDF for your perusal. A Master of Go 9p+ gave comments. Crazy Stone 7 Dan checked the game results. Drago printed.
-| Black                 | White              | Komi   |Results| SGF   | PDF   | PDF with Comments | 
+| Black                 | White              | Komi   |Results| SGF   | PDF*   | PDF with Comments | 
 | --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
 | `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | NG001 | [1968a](https://9x9go.github.io/reviews/pdf/1968a.pdf)| NG001C   |
 | `Go Seigen`        9p   | Naoki Miyamoto 8p  | 0      |B+4    | NG001 | NG001  | NG001C   |
-| Murakawa Daisuke 9p   | `Iyama Yuta`     9p  | 6.5    |W+1.5  | MI002 | MI002  | MI002C   |       
-PDF game records were printed with freeware Drago, [Godrago.net](http://www.godrago.net)
+| Murakawa Daisuke 9p   | `Iyama Yuta`     9p  | 6.5    |W+1.5  | MI002 | MI002  | MI002C   |     
+
+*Pinted with freeware Drago, [Godrago.net](http://www.godrago.net)
 # Editors' Notes
 We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.io/reviews/history.html)
