@@ -25,7 +25,7 @@ We also gratefully thank the following organizations
 
 # Principles of 9 x 9 Go
 ## 9 x 9 Go Principles
-Principles of 9 x 9 explain how the game of 9 x 9 Go is actually played under Chinese rules (komi being 7). 
+The first principle of 9 x 9 explains how the game of 9 x 9 Go is actually played. 
 1. [The rules of 9 x 9 Go](https://9x9go.github.io/reviews/pdf/P001.pdf)
 
 ## 9 x 9 Go Proverbs
