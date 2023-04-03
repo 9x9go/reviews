@@ -49,7 +49,7 @@ Below are the selected 9 Dan professional players' 9 x 9 Go game records and the
 |2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | 006 |  A06 |    |     
 |2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | 007 |  A07 |    |
 |2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | 008 |  A08 |    |     
-|2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | 009 |  A09 |    |     
+|2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | [009](https://9x9go.github.io/reviews/sgf/Japan/002.sgf) |  [A09](https://9x9go.github.io/reviews/pdf/A09.pdf) |    |     
 
 
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
