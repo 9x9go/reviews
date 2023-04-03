@@ -41,8 +41,8 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 Below are WGA analyzed games of 9 x 9 Go. The winners'names are highlighted. Game records are given in SGF and PDF for your perusal. A Master of Go 9p+ gave comments. Crazy Stone 7 Dan re-checked the results.
 | Black                 | White              | Komi   |Results| SGF   | PDF<sup>*</sup>   | Comments<sup>*</sup> | 
 | --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
-| `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | 001 | [1968a](https://9x9go.github.io/reviews/pdf/A01.pdf)|     |
-| `Go Seigen`        9p   | Naoki Miyamoto 8p  | 0      |B+4    | 002 | [1968b](https://9x9go.github.io/reviews/pdf/A02.pdf)|     |
+| `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | 001 | [A01](https://9x9go.github.io/reviews/pdf/A01.pdf)|     |
+| `Go Seigen`        9p   | Naoki Miyamoto 8p  | 0      |B+4    | 002 | [A02](https://9x9go.github.io/reviews/pdf/A02.pdf)|     |
 | Murakawa Daisuke 9p   | `Iyama Yuta`     9p  | 6.5    |W+1.5  | 003 |   |    |     
 
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
