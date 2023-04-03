@@ -39,17 +39,17 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 
 ## 9 x 9 Go Big Matches
 Below are analyzed games of 9 x 9 Go. The winners are highlighted. A Master of Go 9p+ gives comments. 
-| Black                 | White              | Komi   |Results| SGF   | PDF<sup>*</sup>   | Comments<sup></sup> | 
-| --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
-| `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | [001](https://9x9go.github.io/reviews/sgf/Japan/001.sgf) | [A01](https://9x9go.github.io/reviews/pdf/A01.pdf)|     |
-| `Go Seigen`        9p   | Naoki Miyamoto 8p  | 0      |B+4    | [002](https://9x9go.github.io/reviews/sgf/Japan/002.sgf) | [A02](https://9x9go.github.io/reviews/pdf/A02.pdf)|     |
-| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+T    | 005 |   |    |
-| `Yuki Satoshi`    9p    | Takemiya Masaki 9p  | 6.5    |B+R    | 004 |   |    |     
-| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+2.5  | 005 |   |    |
-|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | 003 |   |    |     
-| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | 005 |   |    |
-| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | 004 |   |    |     
-| Murakawa Daisuke 9p     | `Iyama Yuta`    9p  | 6.5    |W+1.5  | 006 |   |    |     
+|Year| Black                 | White              | Komi   |Results| SGF   | PDF<sup>*</sup>   | Comments<sup></sup> | 
+|:---:| --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
+|1968| `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | [001](https://9x9go.github.io/reviews/sgf/Japan/001.sgf) | [A01](https://9x9go.github.io/reviews/pdf/A01.pdf)|     |
+|1968| `Go Seigen`        9p   | Naoki Miyamoto 8p  | 0      |B+4    | [002](https://9x9go.github.io/reviews/sgf/Japan/002.sgf) | [A02](https://9x9go.github.io/reviews/pdf/A02.pdf)|     |
+|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+T    | 005 |   |    |
+|2000| `Yuki Satoshi`    9p    | Takemiya Masaki 9p  | 6.5    |B+R    | 004 |   |    |     
+|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+2.5  | 005 |   |    |
+|2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | 003 |   |    |     
+|2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | 005 |   |    |
+|2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | 004 |   |    |     
+|20xx| Murakawa Daisuke 9p     | `Iyama Yuta`    9p  | 6.5    |W+1.5  | 006 |   |    |     
 
 
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
