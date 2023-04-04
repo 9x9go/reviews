@@ -38,7 +38,7 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 - Empty triangles are not always bad.
 
 ## 9 x 9 Go Big Matches
-Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+. Grey shading marks the winner of each game. The original SGF files were taken from [Pro. A. E. Brouwer's 9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
+Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+. Grey shading marks the winner of each game. The original SGF files were taken from [Prof. A. E. Brouwer's 9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
 
 
 __Hypothesis__: __Yuki Satoshi is the strongest 9 x 9 Go player__, as he was the only one who, when having white stones, can beat at least two 9 Dan professional players.
