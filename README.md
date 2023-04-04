@@ -61,4 +61,5 @@ __Hypothesis__: _Yuki Satoshi is the strongest human 9 x 9 Go player_. He was th
 We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.io/reviews/history.html)
 - [Laws and Theorem](https://9x9go.github.io/reviews/theorem001.html)
+- [wGA](http://www.9x9go.org)
 
