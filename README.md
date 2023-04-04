@@ -33,7 +33,7 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 
 - __The proper komi is 7__, based on the premises that all 9 Dan professional players except Yuki Satoshi were defeated by other 9 Dan professional Go players, when having white stones under 6.5 Komi, implying that Komi being 6.5 is too small and gives Black advantage, and that the initial win rates of Black and White were most equal under 7 komi, compared with those under 6.5 and 7 komi.
 - __Tengen is the best opening__. Move 1 on Tengen is popular among legendary players, including Go Seigen 9p and many No.1 ranked players on Go Quest, as well as superhuman [KataGo](https://katagotraining.org). Tengen is also the only best move in a high komi game (>7), where Black needs to be very aggressive.
-- __The enemy key point is your key point__. A common key point is a point where the enemy wants to occupy to save his or her group while you want to occupy it to kill that group. This kind of key points is known as a vital point.
+- __The enemy key point is your key point__. A common key point is a point where the enemy wants to occupy to save his or her group while you want to occupy it to kill that group or vice versa. This kind of key points is known as a vital point.
 - Kill spaces, not stones.
 - Nearly dead stones are hopeless but can be helpful.
 - Empty triangles are not always bad.
