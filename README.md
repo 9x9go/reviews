@@ -54,7 +54,7 @@ Below are the selected 9 Dan professional players' 9 x 9 Go game records and the
 
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
 
-__Hypothesis__: _Yuki Satoshi is the strongest human 9 x 9 Go player_, as he was the only one who, when having white stones with komi being 6.5, can beat a 9 Dan professional player at least once. He defeated Iyama Yuta 9p, who, when he was young, defeated Ohashi Hirofumi 6p, who is said to be spaceman 9d, who used to be one of the top five players on Go Quest 9 x 9 Go server.  
+__Hypothesis__: _Yuki Satoshi is the strongest human 9 x 9 Go player_, as he was the only one who, when having white stones with komi being 6.5, can beat a 9 Dan professional player at least once. He defeated Iyama Yuta 9p who, when he being young, defeated Ohashi Hirofumi 6p who is said to be spaceman 9d who used to be one of the top five players on Go Quest 9 x 9 Go server.  
 
 # Editors' Notes
 We list some new links on 9 x 9 Go below:
