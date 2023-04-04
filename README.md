@@ -40,17 +40,17 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 ## 9 x 9 Go Big Matches
 Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+. Grey shading marks the winner of each game. The original and more SGF files are given on [Prof. A. E. Brouwer's 9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
 
-|Year| Black                 | White              | Komi   |Results| SGF   | PDF<sup>*</sup>   | Comments<sup></sup> | 
-|:---:| --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
-|1968| `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | [001](https://9x9go.github.io/reviews/sgf/Japan/001.sgf) | [A01](https://9x9go.github.io/reviews/pdf/A01.pdf)|     |
-|1968| `Go Seigen`        9p   | Naoki Miyamoto 8p  | 0      |B+4    | [002](https://9x9go.github.io/reviews/sgf/Japan/002.sgf) | [A02](https://9x9go.github.io/reviews/pdf/A02.pdf)|     |
-|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+T    | 003 |  [A03](https://9x9go.github.io/reviews/pdf/A03.pdf) |    |
-|2000| `Yuki Satoshi`    9p    | Takemiya Masaki 9p  | 6.5    |B+R    | 004 |  [A04](https://9x9go.github.io/reviews/pdf/A04.pdf) |    |     
-|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+2.5  | 005 |  [A05](https://9x9go.github.io/reviews/pdf/A05.pdf) |    |
-|2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | 006 |  A06 |    |     
-|2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | 007 |  A07 |    |
-|2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | 008 |  A08 |    |     
-|2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | [009](https://9x9go.github.io/reviews/sgf/Japan/002.sgf) |  [A09](https://9x9go.github.io/reviews/pdf/A09.pdf) |    |    
+|Year| Black                 | White              | Komi   |Results|  PDF<sup>*</sup>   | Comments<sup></sup> | 
+|:---:| --------------------- |:------------------ | ------:|:------| -------|:---------|
+|1968| `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4     | [A01](https://9x9go.github.io/reviews/pdf/A01.pdf)|     |
+|1968| `Go Seigen`        9p   | Naoki Miyamoto 8p  | 0      |B+4     | [A02](https://9x9go.github.io/reviews/pdf/A02.pdf)|     |
+|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+T    | [A03](https://9x9go.github.io/reviews/pdf/A03.pdf) |    |
+|2000| `Yuki Satoshi`    9p    | Takemiya Masaki 9p  | 6.5    |B+R    | [A04](https://9x9go.github.io/reviews/pdf/A04.pdf) |    |     
+|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+2.5  | [A05](https://9x9go.github.io/reviews/pdf/A05.pdf) |    |
+|2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | A06 |    |     
+|2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | A07 |    |
+|2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | A08 |    |     
+|2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | [A09](https://9x9go.github.io/reviews/pdf/A09.pdf) |    |    
 
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
 
