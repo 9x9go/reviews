@@ -35,8 +35,8 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 - __Tengen is the best opening__. Move 1 on Tengen is popular among legendary players, including Go Seigen 9p and many No.1 ranked players on Go Quest, as well as superhuman [KataGo](https://katagotraining.org). Tengen is also the only best move in a high komi game (>7), where Black needs to be very aggressive.
 - __The enemy key point is your key point__. A common key point is a point where the enemy wants to occupy to save his or her group while you want to occupy it to kill that group or vice versa. This kind of key points is known as a vital point.
 - __Kill spaces, not stones__. Capturing a big group of stones can be achieved by killing the enemy's space, which is more effective when the enemy is unconcious of the global attack on his or her space than when the enemy is concious of the local attack on his or her stones.
-- Nearly dead stones are hopeless but can be helpful.
-- Empty triangles are not always bad.
+- __Nearly dead stones are hopeless but can be helpful__. These stones are hard to rescue but they can support your invasion, with skillful manoeuvres, deeper into the enemy's torritories.
+- __Empty triangles are not always bad__. Sometimes, empty triangle turns out to be a must and the best move.
 
 ## 9 x 9 Go Big Matches
 Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+. Grey shading marks the winner of each game. The original and more SGF files are given on [Prof. A. E. Brouwer's 9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
