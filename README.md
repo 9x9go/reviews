@@ -62,4 +62,5 @@ We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.io/reviews/history.html)
 - [Laws and Theorem](https://9x9go.github.io/reviews/theorem001.html)
 
+[^1] Game analysis in the Reviews was subject to >1,000 visits per move, which is more than enough to be superhuman in 9 x 9 Go.
 
