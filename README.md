@@ -47,9 +47,9 @@ Below are the selected 9 Dan professional players' 9 x 9 Go game records and the
 |2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+T    | [A03](https://9x9go.github.io/reviews/pdf/A03.pdf) |    |
 |2000| `Yuki Satoshi`    9p    | Takemiya Masaki 9p  | 6.5    |B+R    | [A04](https://9x9go.github.io/reviews/pdf/A04.pdf) |    |     
 |2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+2.5  | [A05](https://9x9go.github.io/reviews/pdf/A05.pdf) |    |
-|2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | A06 |    |     
-|2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | A07 |    |
-|2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | A08 |    |     
+|2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | [A06](https://9x9go.github.io/reviews/pdf/A06.pdf) |    |     
+|2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | [A07](https://9x9go.github.io/reviews/pdf/A07.pdf) |    |
+|2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | [A08](https://9x9go.github.io/reviews/pdf/A08.pdf) |    |     
 |2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | [A09](https://9x9go.github.io/reviews/pdf/A09.pdf) |    |    
 
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
