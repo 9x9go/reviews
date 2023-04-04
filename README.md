@@ -39,7 +39,7 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 - __Empty triangles are not always bad__. Sometimes, the empty triangle turns out to be a must and the best move.
 
 ## 9 x 9 Go Big Matches
-Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+[^1]. Grey shading marks the winner of each game. The original and more SGF files are given on [Prof. A. E. Brouwer's 9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
+Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+. Grey shading marks the winner of each game. The original and more SGF files are given on [Prof. A. E. Brouwer's 9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
 
 |Year| Black                 | White              | Komi   |Results|  PDF<sup>*</sup>   | Comments<sup></sup> | 
 |:---:| --------------------- |:------------------ | ------:|:------| -------|:---------|
@@ -61,6 +61,4 @@ __Hypothesis__: _Yuki Satoshi is the strongest human 9 x 9 Go player_. He was th
 We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.io/reviews/history.html)
 - [Laws and Theorem](https://9x9go.github.io/reviews/theorem001.html)
-
-[^1] Game analysis in the Reviews was subject to >1,000 visits per move, which is more than enough to be superhuman in 9 x 9 Go.
 
