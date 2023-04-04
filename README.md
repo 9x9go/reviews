@@ -32,7 +32,7 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 9 x 9 Go proverbs are phrases or sentences that give advices on how 9 x 9 Go is best played, or say things that are generally true about the winning strategy and tactics exploited by A Master of Go, 9p+ and the 9 Dan professional Go players who played 9 x 9 Go. We focus on the best moves that were both played by the top 9 Dan professional Go player and selected by the superhuman Go player. Such moves can be considered the most certainly real best moves which show that the game was being best played.
 
 - __The proper komi is 7__, based on the premises that all 9 Dan professional players except Yuki Satoshi were defeated by other 9 Dan professional Go players, when having white stones under 6.5 Komi, implying that Komi being 6.5 is too small and gives Black advantage, and that the initial win rates of Black and White were most equal under 7 komi, compared with those under 6.5 and 7 komi.
-- Tengen is the best opening
+- __Tengen is the best opening__. Move 1 on Tengen is popular among legendary players, including Go Seigen 9p and many No.1 ranked players on Go Quest, as well as superhuman KataGo.
 - The enemy key point is your key point.
 - Kill spaces, not stones.
 - Nearly dead stones are hopeless but can be helpful.
