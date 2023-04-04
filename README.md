@@ -38,10 +38,8 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 - Empty triangles are not always bad.
 
 ## 9 x 9 Go Big Matches
-Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+. Grey shading marks the winner of each game. The original SGF files were taken from [Prof. A. E. Brouwer's 9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
+Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+. Grey shading marks the winner of each game. The original and more SGF files are given on [Prof. A. E. Brouwer's 9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
 
-
-__Hypothesis__: __Yuki Satoshi is the strongest 9 x 9 Go player__, as he was the only one who, when having white stones, can beat at least two 9 Dan professional players.
 |Year| Black                 | White              | Komi   |Results| SGF   | PDF<sup>*</sup>   | Comments<sup></sup> | 
 |:---:| --------------------- |:------------------ | ------:|:------| :-----|:-------|:---------|
 |1968| `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4    | [001](https://9x9go.github.io/reviews/sgf/Japan/001.sgf) | [A01](https://9x9go.github.io/reviews/pdf/A01.pdf)|     |
@@ -53,12 +51,13 @@ __Hypothesis__: __Yuki Satoshi is the strongest 9 x 9 Go player__, as he was the
 |2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | 007 |  A07 |    |
 |2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | 008 |  A08 |    |     
 |2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | [009](https://9x9go.github.io/reviews/sgf/Japan/002.sgf) |  [A09](https://9x9go.github.io/reviews/pdf/A09.pdf) |    |     
-
-
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
+
+__Hypothesis__: __Yuki Satoshi is the strongest 9 x 9 Go player__, as he was the only one who, when having white stones, can beat at least two 9 Dan professional players.
+
 # Editors' Notes
 We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.io/reviews/history.html)
 - [Laws and Theorem](https://9x9go.github.io/reviews/theorem001.html)
-- [9 x 9 Go books](http://www.9x9go.org) 
+
 
