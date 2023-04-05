@@ -65,17 +65,17 @@ WGA is developing a new approach to measure the actual performance of each Go pl
 
 __Hypothesis 3__:
 
-| %Best Move | Mean Difference in Move Impact     | Ranks     |                 Player | Side | Year | Fieldbook | 
-|-----------:|:---------------:|----------:|:-----------------------|:----:|:-----|:---------:|
-| 100 	      |    0 + x; x > 0 | Max       |perfect superhuman      |W     | 2023+|   na      | 
-| 100 	      |    0 + x; x > 0 | Max       |perfect superhuman      |B     | 2023+|   na      | 
-| 100-a      |        0        | (9p, Max) |current superhuman      |W     | 2023 |   yes     | 
-| 100-a      |        0        | (9p, Max) |current superhuman      |B     | 2023 |   yes     | 
-| 100-a-b    |    0 - e; e > 0 | 9p        |Go Seigen               |W     | 1968 |   yes     | 
-| 100-a-b    |    0 - e; e > 0 | 9p        |Go Seigen               |B     | 1968 |   yes     | 
-| 100-a-b-c  |    0 - f; f > e | 5D        |Crazy Stone             |W     | 2023 |   yes     |
-| 100-a-b-c  |    0 - g; g > f | 5D        |Crazy Stone             |B     | 2023 |   yes     |
-| 100-a-b-c-d|    0 - h; h > g | 30K       |J. K. Pon               |W     | 2023 |   yes     |
+|%Best Move| Mean Difference in Move Impact     | Ranks     |                 Player | Side | Year | Fieldbook | 
+|---------:|:---------------:|----------:|:-----------------------|:----:|:-----|:---------:|
+| 100-a    |    0 + x; x > 0 | Max       |perfect superhuman      |W     | 2023+|   na      | 
+| 100-a 	  |    0 + x; x > 0 | Max       |perfect superhuman      |B     | 2023+|   na      | 
+| 100      |        0        | (9p, Max) |current superhuman      |W     | 2023 |   yes     | 
+| 100      |        0        | (9p, Max) |current superhuman      |B     | 2023 |   yes     | 
+| 100-b    |    0 - e; e > 0 | 9p        |Go Seigen               |W     | 1968 |   yes     | 
+| 100-b    |    0 - e; e > 0 | 9p        |Go Seigen               |B     | 1968 |   yes     | 
+| 100-b-c  |    0 - f; f > e | 5D        |Crazy Stone             |W     | 2023 |   yes     |
+| 100-b-c  |    0 - g; g > f | 5D        |Crazy Stone             |B     | 2023 |   yes     |
+| 100-b-c-d|    0 - h; h > g | 30K       |J. K. Pon               |W     | 2023 |   yes     |
 
 
 # Editors' Notes
