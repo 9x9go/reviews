@@ -5,6 +5,7 @@
   * [9 x 9 Go Principles](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-principles)
   * [9 x 9 Go Proverbs](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-proverbs)
   * [9 x 9 Go Big Matches](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-big-matches)
+* Human 9 x 9 Go Performance
 * [Editors' Notes](https://github.com/9x9go/reviews/blob/main/README.md#editors-notes) 
 
 # Introduction
@@ -58,6 +59,20 @@ Below are the selected 9 Dan professional players' 9 x 9 Go game records and the
 __Hypothesis 1__: _Yuki Satoshi is the strongest human 9 x 9 Go player_. He was the only one who, when having white stones with komi being 6.5, can beat a 9 Dan professional player at least once. He defeated Iyama Yuta 9p who, when being young, defeated Ohashi Hirofumi 6p who is said to be spaceman 9d who used to be one of the top five players on Go Quest 9 x 9 Go server. Yuki Satoshi also did the longest consecutive wins (20 games) in the Yomiuri TV's MiniGo One Game Match event, after which the event terminated. Besides, having black stones, he defeated more than one of the 9 Dan professional Go players.  
 
 __Hypothesis 2__: _Komi being 6.5 is too small in 9 x 9 Go, and 5.5 is not a proper komi at all_. Most 9 x9 Go players (9p) in the Yomiuri TV's MiniGo event were defeated under this komi size. A proper komi can be determined by observing the 0-komi 9 x9 Go game results when Black and White are AIs with perfectly equal superhuman performance (AI self-play, run on the same device and the same number of visits per move). We found Black almost always won by 6.3 - 7.5 points (99% CI), and the mean wining score is 6.9 points. This may explain why Komi being 7 is under Go Quest and WGA standards.   
+
+## Human 9 x 9 Go performance* 
+| %Best Move | Move Impact | Ranks | Player | Side | Date | Game | 
+|-----------:|------------:|------:|:-------|:----:|:-----|:----:|
+| 100 	     |             |       |        |      |      |      | 
+| 70 	     |             |       |        |      |      |      | 
+| 60 	     |             |       |        |      |      |      | 
+| 50 	     |             |       |        |      |      |      | 
+| 40 	     |             |       |        |      |      |      | 
+| 30 	     |             |       |        |      |      |      | 
+| 20 	     |             |       |        |      |      |      | 
+| 10 	     |             |       |        |      |      |      | 
+| 0 	     |             |       |        |      |      |      | 
+* Under study
 
 # Editors' Notes
 We list some new links on 9 x 9 Go below:
