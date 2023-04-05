@@ -66,7 +66,7 @@ WGA is developing a new approach to measure the actual performance of each Go pl
 __Hypothesis 3__:
 
 | %Best Move | Move Impact     | Ranks     |                 Player | Side | Year | Fieldbook | 
-|-----------:|----------------:|----------:|:-----------------------|:----:|:-----|:---------:|
+|-----------:|:---------------:|----------:|:-----------------------|:----:|:-----|:---------:|
 | 100 	      |    0 + x; x > 0 | Max       |perfect superhuman      |W     | 2023+|   na      | 
 | 100 	      |    0 + x; x > 0 | Max       |perfect superhuman      |B     | 2023+|   na      | 
 | 100-a      |        0        | (9p, Max) |current superhuman      |W     | 2023 |   yes     | 
