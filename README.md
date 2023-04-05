@@ -5,7 +5,7 @@
   * [9 x 9 Go Principles](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-principles)
   * [9 x 9 Go Proverbs](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-proverbs)
   * [9 x 9 Go Big Matches](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-big-matches)
-* Human 9 x 9 Go Performance
+* [Human 9 x 9 Go Performance](https://github.com/9x9go/reviews/blob/main/README.md#human-9-x-9-go-performance)
 * [Editors' Notes](https://github.com/9x9go/reviews/blob/main/README.md#editors-notes) 
 
 # Introduction
