@@ -67,8 +67,8 @@ __Hypothesis 3__:
 |-----------:|------------:|------:|:-----------------------|:----:|:-----|:---------:|
 | 100 	      |    >0       | Max   |perfect superhuman      |W     | 2023+|   na      | 
 | 100 	      |    >0       | Max   |perfect superhuman      |B     | 2023+|   na      | 
-| 100-a      |     0       | Max-a |Current Superhuman      |W     | 2023 |   yes     | 
-| 100-a      |     0       | Max-a |Current Superhuman      |B     | 2023 |   yes     | 
+| 100-a      |     0       | Max-a |current superhuman      |W     | 2023 |   yes     | 
+| 100-a      |     0       | Max-a |current superhuman      |B     | 2023 |   yes     | 
 | 100-a-b    |    <0       | 9p    |Go Seigen               |W     | 1968 |   yes     | 
 | 100-a-b    |    <0       | 9p    |Go Seigen               |B     | 1968 |   yes     | 
 | 100-a-b-c  |    <<0      | 5D    |Crazy Stone             |W     | 2023 |   yes     |
