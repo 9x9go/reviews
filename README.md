@@ -64,7 +64,8 @@ Elo rating shows Go players' performance based on the final results of multiple 
 WGA is developing a new approach to measure the actual performance of each Go player in a given game, in terms of %best-move agreement (0 - 100% best moves played) and avarage net move-impact on the opponent's win rate per move (i). If i is negative, the player's moves are mainly weaker than the superhuman's moves by i% difference. If i is zero, then the player's moves are as strong as superhuman. If i is positive, then the player's moves are mainly divine moves (or stronger superhuman).
 | %Best Move | Move Impact | Ranks |                 Player | Side | Date | Game | 
 |-----------:|------------:|------:|:-----------------------|:----:|:-----|:----:|
-| 100 	      |    +a       | 9p+b  |Perfect Superhuman      |      |      |      | 
+| 100 	      |    +a       | Max   |Perfect Superhuman      |B     |      |      | 
+| 100 	      |    +a       | Max   |Perfect Superhuman      |W     |      |      | 
 | 70 	       |             |       |                        |      |      |      | 
 | 60 	       |             |       |                        |      |      |      | 
 | 50 	       |             |       |                        |      |      |      | 
