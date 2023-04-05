@@ -71,11 +71,11 @@ __Hypothesis 3__:
 | 100 	      |    0 + x; x > 0 | Max       |perfect superhuman      |B     | 2023+|   na      | 
 | 100-a      |        0        | (9p, Max) |current superhuman      |W     | 2023 |   yes     | 
 | 100-a      |        0        | (9p, Max) |current superhuman      |B     | 2023 |   yes     | 
-| 100-a-b    |    0 - a; a > 0 | 9p        |Go Seigen               |W     | 1968 |   yes     | 
-| 100-a-b    |    0 - a; a > 0 | 9p        |Go Seigen               |B     | 1968 |   yes     | 
-| 100-a-b-c  |    0 - b; b > a | 5D        |Crazy Stone             |W     | 2023 |   yes     |
-| 100-a-b-c  |    0 - b; b > a | 5D        |Crazy Stone             |B     | 2023 |   yes     |
-| 100-a-b-c-d|    0 - c; c > b | 30K       |J. K. Pon               |W     | 2023 |   yes     |
+| 100-a-b    |    0 - e; e > 0 | 9p        |Go Seigen               |W     | 1968 |   yes     | 
+| 100-a-b    |    0 - e; e > 0 | 9p        |Go Seigen               |B     | 1968 |   yes     | 
+| 100-a-b-c  |    0 - f; f > e | 5D        |Crazy Stone             |W     | 2023 |   yes     |
+| 100-a-b-c  |    0 - g; g > f | 5D        |Crazy Stone             |B     | 2023 |   yes     |
+| 100-a-b-c-d|    0 - h; h > g | 30K       |J. K. Pon               |W     | 2023 |   yes     |
 
 
 # Editors' Notes
