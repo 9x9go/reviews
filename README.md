@@ -42,19 +42,17 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 ## 9 x 9 Go Big Matches
 Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+. Grey shading marks the winner of each game. The original and more SGF files are given on AEB's [9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
 
-|Year| Black                 | White              | Komi   |Results|  PDF<sup>*</sup>   | Comments<sup></sup> | 
-|:---:| --------------------- |:------------------ | ------:|:------| -------|:---------|
-|1968| `Naoki Miyamoto`   8p   | Go Seigen      9p  | 0      |B+4     | [A01](https://9x9go.github.io/reviews/pdf/A01.pdf)|     |
-|1968| `Go Seigen`        9p   | Naoki Miyamoto 8p  | 0      |B+4     | [A02](https://9x9go.github.io/reviews/pdf/A02.pdf)|     |
-|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+T    | [A03](https://9x9go.github.io/reviews/pdf/A03.pdf) |    |
-|2000| `Yuki Satoshi`    9p    | Takemiya Masaki 9p  | 6.5    |B+R    | [A04](https://9x9go.github.io/reviews/pdf/A04.pdf) |    |     
-|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+2.5  | [A05](https://9x9go.github.io/reviews/pdf/A05.pdf) |    |
-|2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | [A06](https://9x9go.github.io/reviews/pdf/A06.pdf) |    |     
-|2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | [A07](https://9x9go.github.io/reviews/pdf/A07.pdf) |    |
-|2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | [A08](https://9x9go.github.io/reviews/pdf/A08.pdf) |    |     
-|2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | [A09](https://9x9go.github.io/reviews/pdf/A09.pdf) |    |    
-
-<sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
+|Year| Black                   | White               | Komi   |Results|  PDF                                               | Comments<sup></sup> | 
+|:--:| ----------------------- |:------------------- | ------:|:------| ---------------------------------------------------|:--------------------|
+|1968| `Naoki Miyamoto`   8p   | Go Seigen      9p   | 0      |B+4    | [A01](https://9x9go.github.io/reviews/pdf/A01.pdf) |                     |
+|1968| `Go Seigen`        9p   | Naoki Miyamoto 8p   | 0      |B+4    | [A02](https://9x9go.github.io/reviews/pdf/A02.pdf) |                     |
+|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+T    | [A03](https://9x9go.github.io/reviews/pdf/A03.pdf) |                     |
+|2000| `Yuki Satoshi`    9p    | Takemiya Masaki 9p  | 6.5    |B+R    | [A04](https://9x9go.github.io/reviews/pdf/A04.pdf) |                     |     
+|2000| `Takemiya Masaki` 9p    | Yuki Satoshi    9p  | 6.5    |B+2.5  | [A05](https://9x9go.github.io/reviews/pdf/A05.pdf) |                     |
+|2001|  Cho Hunhyun      9p    | `Yuki Satoshi`  9p  | 6.5    |W+R    | [A06](https://9x9go.github.io/reviews/pdf/A06.pdf) |                     |     
+|2001| `Cho Hunhyun`     9p    | Yuki Satoshi    9p  | 6.5    |B+R    | [A07](https://9x9go.github.io/reviews/pdf/A07.pdf) |                     |
+|2001| `Yuki Satoshi`    9p    | Cho Hunhyun     9p  | 6.5    |B+T    | [A08](https://9x9go.github.io/reviews/pdf/A08.pdf) |                     |     
+|2013|  Iyama Yuta       9p    | `Yuki Satoshi`  9p  | 6.5    |W+2.5  | [A09](https://9x9go.github.io/reviews/pdf/A09.pdf) |                     |    
 
 __Hypothesis 1__: _Yuki Satoshi is the strongest human 9 x 9 Go player_. He was the only one who, when having white stones with komi being 6.5, can beat a 9 Dan professional player at least once. He defeated Iyama Yuta 9p who, when being young, defeated Ohashi Hirofumi 6p who is said to be spaceman 9d who used to be one of the top five players on Go Quest 9 x 9 Go server. Yuki Satoshi also did the longest consecutive wins (20 games) in the Yomiuri TV's MiniGo One Game Match event, after which the event terminated. Besides, having black stones, he defeated more than one of the 9 Dan professional Go players.  
 
@@ -66,15 +64,15 @@ Elo rating shows Go players' performance based on the final results of multiple 
 WGA is developing a new approach to measure the actual performance of each Go player in a given game, in terms of %best-move agreement (0 - 100% best moves played) and avarage net move-impact on the opponent's win rate per move (i). If i is negative, the player's moves are mainly weaker than the superhuman's moves by i% difference. If i is zero, then the player's moves are as strong as superhuman. If i is positive, then the player's moves are mainly divine moves (or stronger superhuman).
 | %Best Move | Move Impact | Ranks | Player | Side | Date | Game | 
 |-----------:|------------:|------:|:-------|:----:|:-----|:----:|
-| 100 	     |             |       |        |      |      |      | 
-| 70 	     |             |       |        |      |      |      | 
-| 60 	     |             |       |        |      |      |      | 
-| 50 	     |             |       |        |      |      |      | 
-| 40 	     |             |       |        |      |      |      | 
-| 30 	     |             |       |        |      |      |      | 
-| 20 	     |             |       |        |      |      |      | 
-| 10 	     |             |       |        |      |      |      | 
-| 0 	     |             |       |        |      |      |      | 
+| 100 	      |             |       |        |      |      |      | 
+| 70 	       |             |       |        |      |      |      | 
+| 60 	       |             |       |        |      |      |      | 
+| 50 	       |             |       |        |      |      |      | 
+| 40 	       |             |       |        |      |      |      | 
+| 30 	       |             |       |        |      |      |      | 
+| 20 	       |             |       |        |      |      |      | 
+| 10 	       |             |       |        |      |      |      | 
+| 0 	        |             |       |        |      |      |      | 
 * Under study
 
 # Editors' Notes
