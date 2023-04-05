@@ -39,7 +39,7 @@ Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played.
 - __Empty triangles are not always bad__. Sometimes, the empty triangle turns out to be a must and the best move.
 
 ## 9 x 9 Go Big Matches
-Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+. Grey shading marks the winner of each game. The original and more SGF files are given on [Prof. A. E. Brouwer's 9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
+Below are the selected 9 Dan professional players' 9 x 9 Go game records and the comments by A Master of Go, 9p+. Grey shading marks the winner of each game. The original and more SGF files are given on AEB's [9 x 9 Go page](https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html).
 
 |Year| Black                 | White              | Komi   |Results|  PDF<sup>*</sup>   | Comments<sup></sup> | 
 |:---:| --------------------- |:------------------ | ------:|:------| -------|:---------|
