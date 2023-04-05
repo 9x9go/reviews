@@ -58,7 +58,7 @@ __Hypothesis 1__: _Yuki Satoshi is the strongest human 9 x 9 Go player_. He was 
 
 __Hypothesis 2__: _Komi being 6.5 is too small in 9 x 9 Go, and 5.5 is not a proper komi at all_. Most 9 x9 Go players (9p) in the Yomiuri TV's MiniGo event were defeated under this komi size. A proper komi can be determined by observing the 0-komi 9 x9 Go game results when Black and White are AIs with perfectly equal superhuman performance (AI self-play, run on the same device and the same number of visits per move). We found Black almost always won by 6.3 - 7.5 points (99% CI), and the mean wining score is 6.9 points. This may explain why Komi being 7 is under Go Quest and WGA standards.   
 
-## Human 9 x 9 Go performance* 
+## Human 9 x 9 Go performance
 Elo rating shows Go players' performance based on the final results of multiple games. A player still gains positive Elo score when they win a game, no matter how each game is poorly played.
 
 WGA is developing a new approach to measure the actual performance of each Go player in a given game, in terms of %best-move agreement (0 - 100% best moves played) and avarage net move-impact on the opponent's win rate per move (i). If i is negative, the player's moves are mainly weaker than the superhuman's moves by i% difference. If i is zero, then the player's moves are as strong as superhuman. If i is positive, then the player's moves are mainly divine moves (or stronger superhuman).
