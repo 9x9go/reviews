@@ -63,17 +63,17 @@ Elo rating shows Go players' performance based on the final results of multiple 
 
 WGA is developing a new approach to measure the actual performance of each Go player in a given game, in terms of %best-move agreement (0 - 100% best moves played) and avarage net move-impact on the opponent's win rate per move (i). If i is negative, the player's moves are mainly weaker than the superhuman's moves by i% difference. If i is zero, then the player's moves are as strong as superhuman. If i is positive, then the player's moves are mainly divine moves (or stronger superhuman).
 __Hypothesis 3__:
-| %Best Move | Move Impact | Ranks |                 Player | Side | Year | Fieldbook | 
-|-----------:|------------:|------:|:-----------------------|:----:|:-----|:---------:|
-| 100 	      |    >0       | Max   |perfect superhuman      |W     | 2023+|   na      | 
-| 100 	      |    >0       | Max   |perfect superhuman      |B     | 2023+|   na      | 
-| 100-a      |     0       | Max-a |current superhuman      |W     | 2023 |   yes     | 
-| 100-a      |     0       | Max-a |current superhuman      |B     | 2023 |   yes     | 
-| 100-a-b    |    <0       | 9p    |Go Seigen               |W     | 1968 |   yes     | 
-| 100-a-b    |    <0       | 9p    |Go Seigen               |B     | 1968 |   yes     | 
-| 100-a-b-c  |    <<0      | 5D    |Crazy Stone             |W     | 2023 |   yes     |
-| 100-a-b-c  |    <<0      | 5D    |Crazy Stone             |B     | 2023 |   yes     |
-| 100-a-b-c-d|    <<<0     | 30K   |J. K. Pon               |W     | 2023 |   yes     |
+| %Best Move | Move Impact | Ranks     |                 Player | Side | Year | Fieldbook | 
+|-----------:|------------:|----------:|:-----------------------|:----:|:-----|:---------:|
+| 100 	      |    >0       | Max       |perfect superhuman      |W     | 2023+|   na      | 
+| 100 	      |    >0       | Max       |perfect superhuman      |B     | 2023+|   na      | 
+| 100-a      |     0       | (9p, Max) |current superhuman      |W     | 2023 |   yes     | 
+| 100-a      |     0       | (9p, Max) |current superhuman      |B     | 2023 |   yes     | 
+| 100-a-b    |    <0       | 9p        |Go Seigen               |W     | 1968 |   yes     | 
+| 100-a-b    |    <0       | 9p        |Go Seigen               |B     | 1968 |   yes     | 
+| 100-a-b-c  |    <<0      | 5D        |Crazy Stone             |W     | 2023 |   yes     |
+| 100-a-b-c  |    <<0      | 5D        |Crazy Stone             |B     | 2023 |   yes     |
+| 100-a-b-c-d|    <<<0     | 30K       |J. K. Pon               |W     | 2023 |   yes     |
 
 
 # Editors' Notes
