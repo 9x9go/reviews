@@ -55,7 +55,9 @@ Below are the selected 9 Dan professional players' 9 x 9 Go game records and the
 
 <sup>*</sup> Printed with Drago, [Godrago.net](http://www.godrago.net)
 
-__Hypothesis__: _Yuki Satoshi is the strongest human 9 x 9 Go player_. He was the only one who, when having white stones with komi being 6.5, can beat a 9 Dan professional player at least once. He defeated Iyama Yuta 9p who, when being young, defeated Ohashi Hirofumi 6p who is said to be spaceman 9d who used to be one of the top five players on Go Quest 9 x 9 Go server. Yuki Satoshi also did the longest consecutive wins (20 games) in the Yomiuri TV's MiniGo One Game Match event, after which the event terminated. Besides, having black stones, he defeated more than one of the 9 Dan professional Go players.  
+__Hypothesis 1__: _Yuki Satoshi is the strongest human 9 x 9 Go player_. He was the only one who, when having white stones with komi being 6.5, can beat a 9 Dan professional player at least once. He defeated Iyama Yuta 9p who, when being young, defeated Ohashi Hirofumi 6p who is said to be spaceman 9d who used to be one of the top five players on Go Quest 9 x 9 Go server. Yuki Satoshi also did the longest consecutive wins (20 games) in the Yomiuri TV's MiniGo One Game Match event, after which the event terminated. Besides, having black stones, he defeated more than one of the 9 Dan professional Go players.  
+
+__Hypothesis 2__: _Komi being 6.5 is too small in 9 x 9 Go, and not a proper komi at all_. Most 9 x9 Go players (9p) in the Yomiuri TV's MiniGo event were defeated under this komi size. A proper komi can be determined by observing the 0-komi game results when two superhuman players who are perfectly equal in 9 x 9 Go skill (or self-play), we found Black most often won by beween 6.3 - 7.5 points (99% CI), and the mean wining score is 6.9 points. Komi being 7 points for 9 x 9 Go is under Go Quest and WGA standards.   
 
 # Editors' Notes
 We list some new links on 9 x 9 Go below:
