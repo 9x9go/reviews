@@ -62,17 +62,17 @@ __Hypothesis 2__: _Komi being 6.5 is too small in 9 x 9 Go, and 5.5 is not a pro
 Elo rating shows Go players' performance based on the final results of multiple games. A player still gains positive Elo score when they win a game, no matter how each game is poorly played.
 
 WGA is developing a new approach to measure the actual performance of each Go player in a given game, in terms of %best-move agreement (0 - 100% best moves played) and avarage net move-impact on the opponent's win rate per move (i). If i is negative, the player's moves are mainly weaker than the superhuman's moves by i% difference. If i is zero, then the player's moves are as strong as superhuman. If i is positive, then the player's moves are mainly divine moves (or stronger superhuman).
-| %Best Move | Move Impact | Ranks | Player | Side | Date | Game | 
-|-----------:|------------:|------:|:-------|:----:|:-----|:----:|
-| 100 	      |             |       |        |      |      |      | 
-| 70 	       |             |       |        |      |      |      | 
-| 60 	       |             |       |        |      |      |      | 
-| 50 	       |             |       |        |      |      |      | 
-| 40 	       |             |       |        |      |      |      | 
-| 30 	       |             |       |        |      |      |      | 
-| 20 	       |             |       |        |      |      |      | 
-| 10 	       |             |       |        |      |      |      | 
-| 0 	        |             |       |        |      |      |      | 
+| %Best Move | Move Impact | Ranks |                 Player | Side | Date | Game | 
+|-----------:|------------:|------:|:-----------------------|:----:|:-----|:----:|
+| 100 	      |    +a       | 9p+b  |Perfect Superhuman      |      |      |      | 
+| 70 	       |             |       |                        |      |      |      | 
+| 60 	       |             |       |                        |      |      |      | 
+| 50 	       |             |       |                        |      |      |      | 
+| 40 	       |             |       |                        |      |      |      | 
+| 30 	       |             |       |                        |      |      |      | 
+| 20 	       |             |       |                        |      |      |      | 
+| 10 	       |             |       |                        |      |      |      | 
+| 0 	        |             |       |                        |      |      |      | 
 * Under study
 
 # Editors' Notes
