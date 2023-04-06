@@ -129,7 +129,7 @@ To check if the above grading model can work properly or not, we conducted a rea
 1. Crazy Stone 5D must have lower %Best Move and lower move strength than both Go Seigen and Miyamoto Naoki.
 2. A novice player must have lower %Best Move and lower move strength than all of the above players.
 3. Yuki Satoshi 9p and Iyama Yuta 9p must have higher %Best Move and higher Move Strength than Crazy Stone 5D, and comparable to Go Seigen and Miyamoto Naoki.
-4. 
+
 # Editors' Notes
 We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.io/reviews/history.html)
