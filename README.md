@@ -97,7 +97,7 @@ A game result is normally reported as win or lost by time, by resignation or by 
 |Parameters          |        Black |       White|
 |:-------------------|-------------:|------------|
 |Player              |Miyamoto Naoki|   Go Seigen|
-|Color               |         Black|       White|
+|Rank                |            8p|          9p|
 |Total Move          |	           40|          40|
 |Total Best Move     |       	    32|    	     35|
 |%Best Move          |	           80|          88|
