@@ -95,7 +95,7 @@ __Testing__
 A game result is normally reported as win or lost by time, by resignation or by certain points that do not reflect the playing quality in that game. Game quality analysis must be performed by a superhuman player that is much stronger than the players whose game is being analyized. Below is an example of game results report that are more informative, based on the actual game data and performance analysis.
 
 |Parameters          |        Black |       White|
-|:-------------------|-------------:|------------|
+|:-------------------|-------------:|:-----------|
 |Player              |Miyamoto Naoki|   Go Seigen|
 |Rank                |            8p|          9p|
 |Total Move          |	           40|          40|
