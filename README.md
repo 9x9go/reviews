@@ -112,7 +112,7 @@ __Discussions__
 3. In this game, both players's move quality can be graded as A, based on the following criterea:
 
 | %Best Move | Grade |
-|-----:|:----:|
+|:-----:|:----:|
 |90 - 100|A+|
 |80 - 89|A|
 |70 - 79|B|
