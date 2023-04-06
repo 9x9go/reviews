@@ -82,8 +82,8 @@ __Testing__
 |---------:|:-----------------------------:|-------------------:|:---------------------------------------|:----:|:-----|:---------:|
 | 100-a    |    0 + x; x > 0               | Max                |KataGo, final version & strongest weight|W     | 2023+|   na      | 
 | 100-a 	  |    0 + x; x > 0               | Max                |KataGo, final version & strongest weight|B     | 2023+|   na      | 
-| 100      |        0                      | (9p, Max)          |KataGo (v1.12.4), b18nbrs550, >200 vpm  |W     | 2023 |   yes     | 
-| 100      |        0                      | (9p, Max)          |KataGo (v1.12.4), b18nbrs550, >200 vpm  |B     | 2023 |   yes     | 
+| 100      |        0                      | 9p+                |KataGo (v1.12.4), b18nbrs550, >200 vpm  |W     | 2023 |   yes     | 
+| 100      |        0                      | 9p+                |KataGo (v1.12.4), b18nbrs550, >200 vpm  |B     | 2023 |   yes     | 
 | 100-b    |    0 - e; e > 0               | 9p                 |Go Seigen                               |W     | 1968 |   [B01](https://9x9go.github.io/reviews/pdf/B01.pdf)     | 
 | 100-b    |    0 - e; e > 0               | 9p                 |Go Seigen                               |B     | 1968 |   yes     | 
 | 100-b-c  |    0 - f; f > e               | 5D                 |Crazy Stone                             |W     | 2023 |   yes     |
