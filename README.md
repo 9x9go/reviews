@@ -91,8 +91,8 @@ __Testing__
 | 100-b-c-d|    0 - h; h > g               | 30K                |J. K. Pon                               |W     | 2023 |   yes     |
 
 
-__An Issue on Game Report and a Solution__ 
-Game results are normally reported as win or lost by time, by resignation or by certain points, which are not the playing quality. Game quality analysis must be performed by a superhuman player that is much stronger than the players whose game is being analyized. Below is an example of game results report that are more informative, based on the actual game data and analysis.
+## An Issue on Game Report and a Solution
+A game result is normally reported as win or lost by time, by resignation or by certain points that do not reflect the playing quality in that game. Game quality analysis must be performed by a superhuman player that is much stronger than the players whose game is being analyized. Below is an example of game results report that are more informative, based on the actual game data and performance analysis.
 
 |Parameters          |        Black |       White|
 |:-------------------|-------------:|------------|
