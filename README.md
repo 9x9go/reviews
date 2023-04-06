@@ -61,21 +61,21 @@ __Hypothesis 2__: _Komi being 6.5 is too small in 9 x 9 Go, and 5.5 is not a pro
 ## Human 9 x 9 Go performance
 Elo rating shows Go players' performance based on the final results of multiple games. A player still gains positive Elo score when they win a game, no matter how each game is poorly played.
 
-WGA is developing a new approach to measure the actual performance of each Go player in a given game, in terms of %best-move agreement (0 - 100% best moves played) and avarage net move-impact on the opponent's win rate per move (i). If i is negative, the player's moves are mainly weaker than the superhuman's moves by i% difference. If i is zero, then the player's moves are as strong as superhuman. If i is positive, then the player's moves are mainly divine moves (or stronger superhuman).
+We assessed the performance of Go players in each game, in terms of %best-move agreement (0 - 100% best moves played) and the mean net drop in the opponent's win rate due to the player's move (D). If D is negative, the player's moves are mainly weaker than the superhuman's moves by D% difference. If D is zero, then the player's moves are as strong as superhuman's. If D is positive, then the player's moves are divine moves which are stronger than superhuman's moves.
 
 __Hypothesis 3__:
 
-|%Best Move| Mean Difference in Move Impact     | Ranks     |                 Player | Side | Year | Fieldbook | 
-|---------:|:---------------:|----------:|:-----------------------|:----:|:-----|:---------:|
-| 100-a    |    0 + x; x > 0 | Max       |perfect superhuman      |W     | 2023+|   na      | 
-| 100-a 	  |    0 + x; x > 0 | Max       |perfect superhuman      |B     | 2023+|   na      | 
-| 100      |        0        | (9p, Max) |current superhuman      |W     | 2023 |   yes     | 
-| 100      |        0        | (9p, Max) |current superhuman      |B     | 2023 |   yes     | 
-| 100-b    |    0 - e; e > 0 | 9p        |Go Seigen               |W     | 1968 |   yes     | 
-| 100-b    |    0 - e; e > 0 | 9p        |Go Seigen               |B     | 1968 |   yes     | 
-| 100-b-c  |    0 - f; f > e | 5D        |Crazy Stone             |W     | 2023 |   yes     |
-| 100-b-c  |    0 - g; g > f | 5D        |Crazy Stone             |B     | 2023 |   yes     |
-| 100-b-c-d|    0 - h; h > g | 30K       |J. K. Pon               |W     | 2023 |   yes     |
+|%Best Move| Mean Net Drop in Win Rate     | Ranks              | Player                 | Side | Year | Fieldbook | 
+|---------:|:-----------------------------:|-------------------:|:-----------------------|:----:|:-----|:---------:|
+| 100-a    |    0 + x; x > 0               | Max                |perfect superhuman      |W     | 2023+|   na      | 
+| 100-a 	  |    0 + x; x > 0               | Max                |perfect superhuman      |B     | 2023+|   na      | 
+| 100      |        0                      | (9p, Max)          |current superhuman      |W     | 2023 |   yes     | 
+| 100      |        0                      | (9p, Max)          |current superhuman      |B     | 2023 |   yes     | 
+| 100-b    |    0 - e; e > 0               | 9p                 |Go Seigen               |W     | 1968 |   [B01](https://9x9go.github.io/reviews/pdf/B01.pdf)     | 
+| 100-b    |    0 - e; e > 0               | 9p                 |Go Seigen               |B     | 1968 |   yes     | 
+| 100-b-c  |    0 - f; f > e               | 5D                 |Crazy Stone             |W     | 2023 |   yes     |
+| 100-b-c  |    0 - g; g > f               | 5D                 |Crazy Stone             |B     | 2023 |   yes     |
+| 100-b-c-d|    0 - h; h > g               | 30K                |J. K. Pon               |W     | 2023 |   yes     |
 
 
 # Editors' Notes
