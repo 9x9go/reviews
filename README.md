@@ -59,9 +59,9 @@ __Hypothesis 1__: _Yuki Satoshi is the strongest human 9 x 9 Go player_. He was 
 __Hypothesis 2__: _Komi being 6.5 is too small in 9 x 9 Go, and 5.5 is not a proper komi at all_. Most 9 x9 Go players (9p) in the Yomiuri TV's MiniGo event were defeated under this komi size. A proper komi can be determined by observing the 0-komi 9 x9 Go game results when Black and White are AIs with perfectly equal superhuman performance (AI self-play, run on the same device and the same number of visits per move). We found Black almost always won by 6.3 - 7.5 points (99% CI), and the mean wining score is 6.9 points. This may explain why Komi being 7 is under Go Quest and WGA standards.   
 
 ## Human Performance
-Elo rating shows Go players' performance based on the final results of multiple games. A player still gains positive Elo score when they win a game, no matter how the game was poorly played.
+A player's Elo rating shows his or her winning potential, not his or her game quality. A player still takes points from the lossing opponent, no matter how the rated game was poorly played by the winner.
 
-We assessed the performance of Go players in each game, in terms of %best-move agreement (0 - 100% best moves played) and the mean net drop in the opponent's win rate due to the player's move (D). If D is negative, the player's moves are mainly weaker than the superhuman's moves by D% difference. If D is zero, then the player's moves are as strong as superhuman's. If D is positive, then the player's moves are divine moves which are stronger than superhuman's moves.
+We use superhuman performance analysis to assess a player's performance, to chek how well each game was played by the player, in terms of %best-move (0 - 100% best moves played by a player that agree with thoses recommended by superhuman A Master of Go 9p+) and the mean net drop in the player's opponent's win rate due to the player's previous move (D). If D is negative, the player's moves are mainly weaker than the superhuman's moves by D% difference. If D is zero, then the player's moves are as strong as superhuman's. If D is positive, then the player's moves are divine moves which are stronger than superhuman's moves.
 
 __Hypothesis 3__:
 
