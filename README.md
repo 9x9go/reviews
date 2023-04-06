@@ -99,11 +99,11 @@ A game result is normally reported as win or lost by time, by resignation or by 
 |Player              |Miyamoto Naoki|   Go Seigen|
 |Rank                |            8p|          9p|
 |Total Move          |	           40|          40|
-|Total Best Move     |       	    32|    	     35|
+|Total Best-Move     |       	    32|    	     35|
 |%Best Move          |	           80|          88|
-|%Mean Move Strength |         97.36|	      97.55|
-|Worst Move Dif      |	        -28.2|    	    -38|
-|Worst Move Number   |	           27|          34|
+|%Mean Move-Strength |         97.36|	      97.55|
+|Worst-Move Dif      |	        -28.2|    	    -38|
+|Worst-Move Number   |	           27|          34|
 |Divine Moves        |	            0|           0|
 
 __Discussions__
