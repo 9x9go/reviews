@@ -109,7 +109,20 @@ A game result is normally reported as win or lost by time, by resignation or by 
 __Discussions__
 1.  Although Go Seigen was defeated, he made more best moves and each of his moves was mainly stronger. If Komi were 7, Go Seigen can win by 3 points. Clearly, Go Seigen is slightly stronger than Miyamoto Naoki in 9 x 9 Go.
 2. Miyamoto Naoki was only slightly weaker, in terms of both %Best Move and Mean Move Strength. He deserved 9p, which he actually achieved the next year.
-3. In this game, both players's move quality can be graded as A.
+3. In this game, both players's move quality can be graded as A, based on the following criterea:
+
+| %Best Move | Grade |
+|-----:|:----:|
+|90 - 100|A+|
+|80 - 89|A|
+|70 - 79|B|
+|60 - 69|C|
+|50 - 59|D|
+|40 - 49|E|
+|30 - 39|F|
+|20 - 29|G|
+|10 - 19|H|
+|0 - 9|J|
 
 # Editors' Notes
 We list some new links on 9 x 9 Go below:
