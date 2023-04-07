@@ -132,7 +132,9 @@ To check if the above grading model can work properly or not, we conducted a rea
 3. Yuki Satoshi 9p and Iyama Yuta 9p must have higher %Best Move and higher Move Strength than Crazy Stone 5D, and comparable to Go Seigen and Miyamoto Naoki.
 
 # Experiments
-To develop the principles of 9 x 9 Go, we have one researcher, Monteo da Westi, played the game for about 10,000 games in 23 years (one game per day on average), and played for A Master of Go on Go Ques for 113 games in 2020, which achieved 8 Dan and topped the chart. He found that KataGo with Lizzie and A Master of Go, an iOS application, are  equivalent in performance on 9 x 9 board, given the same neural networks are used. The mobile version can defeat the PC version if the neural networks of the former are stronger. Currently, he conducted experiments to study 9 x 9 Go from move 1 to the endgame. The first question is: "What is the best first move for Black?" We developed [hypotheses on the best first move for Black](https://9x9go.github.io/reviews/pdf/EX1.pdf) in experiment 1. The accuracy for these hypotheses is being measured and will be reported here.
+To develop the principles of 9 x 9 Go, one researcher played the game of 9 x 9 Go for about 10,000 games in 23 years (one game per day on average), played the game for A Master of Go on Go Ques for 113 games, and topped the chart of Go Quest in 2020. He found that KataGo with Lizzie and A Master of Go, an iOS application, are  equivalent in performance on 9 x 9 board, if the same neural networks were used. The mobile version defeated the PC version if the neural networks of the former was stronger. Currently, he conducted computer experiments to study 9 x 9 Go from move 1 to the endgame. 
+
+In Experiment 1, the research question is: "_What is the best first move for Black on 9 x 9 board?_" [Hypotheses on the best first move for Black](https://9x9go.github.io/reviews/pdf/EX1.pdf) are being measured for accuracy. Results will be reported here.
 
 # Editors' Notes
 We list some new links on 9 x 9 Go below:
