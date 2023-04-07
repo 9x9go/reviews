@@ -130,6 +130,9 @@ To check if the above grading model can work properly or not, we conducted a rea
 2. A novice player must have lower %Best Move and lower move strength than all of the above players.
 3. Yuki Satoshi 9p and Iyama Yuta 9p must have higher %Best Move and higher Move Strength than Crazy Stone 5D, and comparable to Go Seigen and Miyamoto Naoki.
 
+# Experiment
+To develop the principles of 9 x 9, we conducted experiments from move 1. The first and most basic question is "What is the best first move for Black?" We have developed our [hypotheses on the best first move for Black in Experiment 1](https://9x9go.github.io/reviews/pdf/EX1.pdf). The accuracy for these hypotheses are being measured and will be reported here.
+
 # Editors' Notes
 We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.io/reviews/history.html)
