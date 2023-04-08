@@ -158,7 +158,7 @@ Hoshi, Komoku, and Takamoku were the top three best first moves for Black. Hoshi
 |Komoku|1|0|100|
 |Tengen|2|2|50|
 
-Surprisingly, Tengen was not the best opening in 9 x 9 Go. 
+Surprisingly, Tengen was not the best first move for Black in 9 x 9 Go. 
 
 # Notes
 We list some new links on 9 x 9 Go below:
