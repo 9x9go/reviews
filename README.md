@@ -135,10 +135,10 @@ To check if the above grading model can work properly or not, we conducted a rea
 To develop the principles of 9 x 9 Go, one researcher played the game of 9 x 9 Go for about 10,000 games in 23 years (one game per day on average), and played the game for A Master of Go on Go Quest for another 113 games, topping the chart of Go Quest in 2020. We found that KataGo with Lizzie and A Master of Go, an iOS application, were equivalent in performance on 9 x 9 board, when the same neural networks were used. The mobile version defeated the PC version when the neural networks of the former were stronger. Currently, we conducted computer experiments to study 9 x 9 Go from move 1 to move n.
 
 ## Experiment 1
-### Question:
+### Question 1:
 What is the best first move for Black on 9 x 9 board?
-### Hypotheses:
-[The best first move for Black is Tengen](https://9x9go.github.io/reviews/pdf/EX1.pdf) is to be be measured for accuracy. 
+#### Hypotheses:
+[The best first move for Black is Tengen](https://9x9go.github.io/reviews/pdf/EX1.pdf)
 
 # Notes
 We list some new links on 9 x 9 Go below:
