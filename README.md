@@ -29,7 +29,7 @@ We also gratefully thank the following organizations
 # Principles of 9 x 9 Go
 ## 9 x 9 Go Principles
 Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played. 
-1. [The rules of 9 x 9 Go](https://9x9go.github.io/reviews/pdf/P001.pdf)
+1. The rules of 9 x 9 Go [paper](https://9x9go.github.io/reviews/pdf/P001.pdf) or [viewer](https://9x9go.github.io/reviews/artof9x9.html) 
 
 ## 9 x 9 Go Proverbs
 9 x 9 Go proverbs are phrases or sentences that give advices on how 9 x 9 Go is best played, or say things that are generally true about the winning strategy and tactics exploited by A Master of Go, 9p+ and the 9 Dan professional Go players who played 9 x 9 Go. We focus on the best moves that were both played by the top 9 Dan professional Go player and selected by the superhuman Go player. Such moves can be considered the most certainly real best moves which show that the game was being best played.
