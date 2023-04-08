@@ -158,6 +158,8 @@ It seems that Hoshi, Komoku, and Takamoku are the top three best first moves for
 |Komoku|1|0|100|
 |Tengen|2|2|50|
 
+We cannot say that Tengen is not the best opening in 9 x 9 Go. 
+
 # Notes
 We list some new links on 9 x 9 Go below:
 - [History of 9 x 9 Go](https://9x9go.github.io/reviews/history.html)
