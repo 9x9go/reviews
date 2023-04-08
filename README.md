@@ -139,6 +139,16 @@ To develop the principles of 9 x 9 Go, one researcher played the game of 9 x 9 G
 What is the best first move for Black on 9 x 9 board?
 #### Hypotheses:
 [The best first move for Black is Tengen](https://9x9go.github.io/reviews/pdf/EX1.pdf)
+### Results
+After move 17 in A Master of Go's self-play games (>300 visits per move), White's win rates dropped as follows:
+|First Move  | White's win rate at move 17|
+|:-----------|:------:|
+|Hoshi|47|
+|Komoku|48|
+|Takamoku|55|
+|Tengen|63|
+|Moku-hazushi|70|
+|Sansan|74|
 
 # Notes
 We list some new links on 9 x 9 Go below:
