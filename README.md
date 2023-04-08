@@ -19,7 +19,7 @@ We thank gratefully the following Go people:
 - Yasushi Tanase for creating the best 9 x 9 Go server, [Go Quest](http://wars.fm/go9).
 - [Gillles Arcas](https://github.com/GillesArcas) for giving the open source Go diagram editing freeware, [Drago](https://godrago.net/)
 - [Arno Hollosi](https://senseis.xmp.net/?ArnoHollosi), [Morten Pahle](https://senseis.xmp.net/?MortenPahle), and others who create contents on the [Sensei's Library](https://senseis.xmp.net/), which provide valuable Go information.
-- [Eidogo](http://wwww.eidogo.com) for SGF viewer code  
+- Justin Kramer's [Eidogo](http://wwww.eidogo.com) for SGF viewer code  
 
 We also gratefully thank the following organizations
 - GitHubm Inc, for free web hosting and code environment 
