@@ -151,7 +151,7 @@ After move 17 in A Master of Go's self-play games (>300 visits per move), White'
 |Sansan|74|
 
 Hoshi, Komoku, and Takamoku were the top three best first moves for Black. Hoshi was the best one, which agrees with the best first moves in the [9 Dan professional players' games](https://github.com/9x9go/reviews#9-x-9-go-big-matches):
-|First Move  | Win| Lost|%win|
+|First Move  | Win| Lost|%Win|
 |:-----------|:------:|:----:|----:|
 |Hoshi|2|0|100|
 |Takamoku|2|0|100|
