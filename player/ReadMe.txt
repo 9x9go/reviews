@@ -1,4 +1,4 @@
-The code in this folder is modified from the origibnal source code of EidoGo at [http://eidogo.com/source](http://eidogo.com/source) 
+The code in this folder is modified from the origibnal source code of EidoGo at http://eidogo.com/source
 
 WGA's version of Eidogo has the following code changes:
 1. player.css
