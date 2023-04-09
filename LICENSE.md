@@ -2,7 +2,7 @@ The html/css/js codes in this repository currently rely on [Edwin Lunandy](https
 
 Copyright information for the templates, layouts and menus can be found on the file [readme.txt](readme.txt). I do not credit or claim ownership, copyright or IPR in any way for any template, design or menu displayed or used on our website.
 
-The Game Viewer (SGF Player) is of [Eidogo](http://eidogo.com/) is licensed under the AGPLV3 by Justin Kramer.
+The Game Viewer (SGF Player) is of [Eidogo](http://eidogo.com/), licensed under the AGPLV3 by Justin Kramer.
 
 
 Aside from the above, the license for all OTHER content in this repo is as follows:
