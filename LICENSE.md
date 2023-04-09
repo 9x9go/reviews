@@ -1,9 +1,8 @@
-The html/css/js codes in this repository currently rely on [Edwin Lunandy](https://github.com/populationtwo?tab=repositories) whose old website is [population-2.com](http://population-2.com/). He designed the template, called Typo Today. The intellectual property rights and copyrights of this template, design and menu belong to Edwin Lunandy (http://population-2.com).
+The html/css/js codes of the 9 x 9 Go Reviews site in this repository currently rely on [Edwin Lunandy](https://github.com/populationtwo?tab=repositories) whose old website is [population-2.com](http://population-2.com/). He designed the template, called Typo Today. The intellectual property rights and copyrights of this template, design and menu belong to Edwin Lunandy (http://population-2.com).
 
 Copyright information for the templates, layouts and menus can be found on the file [readme.txt](readme.txt). I do not credit or claim ownership, copyright or IPR in any way for any template, design or menu displayed or used on our website.
 
-The Game Viewer (SGF Player) is of [Eidogo](http://eidogo.com/), licensed under the [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html) by Justin Kramer, which we slightly [modified the code](https://github.com/9x9go/reviews/tree/main/player) to fit our 9 x 9 Go reviews, in which the 9 x 9 Go image (board-9e.gif) was exported from [Drago](http://www.godrago.net)
-
+The Game Viewer (SGF Player) is [Eidogo](http://eidogo.com/), licensed under the [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html) by Justin Kramer, which we slightly [modified the code](https://github.com/9x9go/reviews/tree/main/player) to fit our 9 x 9 Go reviews, in which the 9 x 9 Go image (board-9e.gif) was exported from [Drago](http://www.godrago.net) freeware.
 
 Aside from the above, the license for all OTHER content in this repo is as follows:
 
