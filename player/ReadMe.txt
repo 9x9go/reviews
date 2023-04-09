@@ -1,6 +1,6 @@
 The code in this folder is modified from the original source code of Justin Kramer's EidoGo at http://eidogo.com/source
 
-WGA's version of Eidogo has the following minor changes in EidoGo code:
+To fit 9 x 9 Go review under WGA standard, we make the following minor changes in EidoGo code:
 1. player.css
 Line 251 (under .comments), font-size: 16px;
 Line 411 (under .board-container, height: 250px;
