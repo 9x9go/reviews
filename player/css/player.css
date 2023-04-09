@@ -435,9 +435,9 @@
 }
 .eidogo-player .board.size9 {
 	position: absolute;
-	width: 187px;
-	height: 186px;
-	background: #888 url(../images/board-9b.jpg);
+	width: 220px;
+	height: 220px;
+	background: #888 url(../images/board-9e.gif);
 	margin: 0px 190px;
 }
 .eidogo-player .board.size13 {
