@@ -247,7 +247,7 @@
 	clear: right;
 	float: right;
 	width: 356px;
-	height: 243px;
+	height: 307px;
 	font-size: 16px;
 	margin: 5px 0 0 0;
 	padding: 15px 8px 40px 8px;
@@ -408,7 +408,7 @@
 .eidogo-player .board-container {
     float: left;
 	width: 421px;
-	height: 250px;
+	height: 270px;
     background: #654;
 	user-select: none;
 	-khtml-user-select: none;
