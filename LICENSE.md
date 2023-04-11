@@ -4,6 +4,8 @@ Copyright information for the templates, layouts and menus can be found on the f
 
 The Game Viewer (SGF Player) is [Eidogo](http://eidogo.com/), licensed under the [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html) by Justin Kramer, which we slightly [modified the code](https://github.com/9x9go/reviews/tree/main/player) to fit our 9 x 9 Go reviews, in which the 9 x 9 Go image (board-9e.gif) was exported from [Drago](http://www.godrago.net) freeware.
 
+Chart.js is modified from Chart.js v2.9.4 https://www.chartjs.org (c) 2020 Chart.js Contributors: Released under the MIT License
+
 Aside from the above, the license for all OTHER content in this repo is as follows:
 
 Copyright © 2023 Monteo da Westi ("9x9go")
