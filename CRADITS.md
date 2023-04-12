@@ -1,11 +1,8 @@
 GO ENGINE
-
-KataGo
-(David J. Wu)
+- KataGo (David J. Wu)
 
 ANALYST
-A Master of Go
-(Yuji Ichikawa)
+- A Master of Go (Yuji Ichikawa)
 
 SITUATION GRAPH
 Chart.js
