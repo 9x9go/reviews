@@ -1,4 +1,4 @@
-GO ENGINE
+<center>GO ENGINE
 - KataGo (David J. Wu)
 
 ANALYST
