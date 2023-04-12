@@ -1,8 +1,8 @@
-<center>GO ENGINE
-- KataGo (David J. Wu)
+GO ENGINE
+KataGo (David J. Wu)
 
 ANALYST
-- A Master of Go (Yuji Ichikawa)
+A Master of Go (Yuji Ichikawa)
 
 SITUATION GRAPH
 Chart.js
@@ -24,3 +24,4 @@ GitHub
 
 FINANCE
 [WGA](http://www.9x9go.org)
+</center>
