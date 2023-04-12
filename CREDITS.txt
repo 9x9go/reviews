@@ -1,27 +1,26 @@
 GO ENGINE
-KataGo (David J. Wu)
+KataGo 
+www.katagotraing.org
 
 ANALYST
-A Master of Go (Yuji Ichikawa)
+A Master of Go 
+https://apps.apple.com/us/app/a-master-of-go/id1442035374
 
 SITUATION GRAPH
-Chart.js
+https://www.chartjs.org/docs/latest/charts/line.html
 
 SGF VIEWER
-Eidogo
-(Justin Kramer)
+http://eidogo.com
 
 BOARD TEXTURE
-[Drago](http://www.godrago.net)
-()
+https://godrago.net
 
 SGF FILES
-Go Page
-(ELB)
+https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html
 
-SITE
-GitHub
+REVIEW TEMPLATE
+https://www.free-css.com/free-css-templates/page130/typo-today
 
-FINANCE
-[WGA](http://www.9x9go.org)
-</center>
+RESEARCH FUND
+http://www.9x9go.org
+
