@@ -1,3 +1,6 @@
+FINANCIAL SUPPORT
+http://www.9x9go.org
+
 GO ENGINE
 KataGo 
 www.katagotraing.org
@@ -20,7 +23,3 @@ https://homepages.cwi.nl/~aeb/go/games/games/other_sizes/index.html
 
 REVIEW TEMPLATE
 https://www.free-css.com/free-css-templates/page130/typo-today
-
-FINANCIAL SUPPORT
-http://www.9x9go.org
-
