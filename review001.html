@@ -8,9 +8,16 @@
 
 <html>
 <script src="js/Chart.js"></script>
+<style type="text/css">
+	.chartBox {
+		width:700px;
+		height:100px;
+	}
+	</style>
 <body>
-<canvas id="myChart" style="width:100%;max-width:435px"></canvas>
-
+	<div class="chartBox">
+<canvas id="myChart"></canvas>
+	</div>
 <script>
   var ctx = document.getElementById("myChart").getContext('2d');
   var myChart = new Chart(ctx, {
@@ -29,6 +36,7 @@
     },
     //HERE COMES THE AXIS Y LABEL
     options : {
+      maintainAspectRatio: false,
       scales: {
         yAxes: [{
           scaleLabel: {
