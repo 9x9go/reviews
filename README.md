@@ -1,14 +1,4 @@
 # 9 x 9 Go Reviews
-* [Introduction](https://github.com/9x9go/reviews/blob/main/README.md#introduction)
-* [Acknowledgement](https://github.com/9x9go/reviews/blob/main/README.md#acknowledgement)
-* [Principles of 9 x 9 Go](https://github.com/9x9go/reviews/blob/main/README.md#principles-of-9-x-9-go)
-  * [9 x 9 Go Principles](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-principles)
-  * [9 x 9 Go Proverbs](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-proverbs)
-  * [9 x 9 Go Big Matches](https://github.com/9x9go/reviews/blob/main/README.md#9-x-9-go-big-matches)
-* [Human 9 x 9 Go Performance](https://github.com/9x9go/reviews/blob/main/README.md#human-9-x-9-go-performance)
-* [Experiments](https://github.com/9x9go/reviews/blob/main/README.md#experiment)
-* [Editors' Notes](https://github.com/9x9go/reviews/blob/main/README.md#editors-notes) 
-
 # Introduction
  [9 x 9 Go Reviews](https://9x9go.github.io/reviews) publishes the results of WGA's 9 x 9 Go experimens, which was intended to determine how the game of 9 x 9 is best played. This repository shows our study notes, ideas, facts, hypotheses, theorems, theories, laws, and proverbs, learned from the games of 9 Dan professional players and superhuman players. Researcher team includes [Monteo da Westi](http://wars.fm/go9#user/monteodawesti), J. K. Pon, and [A Master of Go](https://apps.apple.com/us/app/a-master-of-go/id1442035374) that exploits KataGo engine (v1.12.4) and the verified neural network ([the strongest confidently-rated network: kata1-b18c384nbt-s5503060480-d3193512631](https://katagotraining.org/networks/kata1/), as of April 2, 2023), of which the older engine with the weaker neural network, [KataTest 9 Dan](http://wars.fm/go9#user/katatest) topped the chart of Go Quest 9 x 9 Go server in Septermber 2019. AMG can top the chart as well, based on the transitive laws and the AMG's game results in March 2023. 
 
@@ -162,10 +152,3 @@ Hoshi, Komoku, and Takamoku were the top three best first moves for Black. Hoshi
 |Tengen|2|2|50|
 
 Surprisingly, Tengen was not the best first move for Black in 9 x 9 Go. 
-
-# Notes
-We list some new links on 9 x 9 Go below:
-- [History of 9 x 9 Go](https://9x9go.github.io/reviews/history.html)
-- [Laws and Theorem](https://9x9go.github.io/reviews/theorem001.html)
-- [WGA](http://www.9x9go.org)
-
