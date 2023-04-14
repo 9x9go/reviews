@@ -96,7 +96,7 @@ __Testing__
 
 
 ## Game Report
-Game results have long been reported as win or lost by time, by resignation or by certain points, which do not reflect the playing quality in that game. Game quality analysis must be performed by a superhuman player that is much stronger than the players whose game is being analyized. Below is an example of game results report that are more informative, based on the actual game data and performance analysis done on [Google Sheet](https://docs.google.com/spreadsheets/d/1Yi780DX1DEwEpKFEJpKiWgmr2SdGjI71L3gA9lqG0xc/edit?usp=sharing).
+Game results have long been reported as win or lost by time, by resignation or by certain points, which do not reflect the playing quality in that game. Game quality analysis must be performed by a superhuman player that is much stronger than the players whose game is being analyized. Below is an example of game results report that are more informative, based on the actual game data analysis.
 
 |Parameters          |        Black |       White|
 |:-------------------|-------------:|:-----------|
