@@ -1,5 +1,5 @@
 # 9 x 9 Go Reviews
- [9 x 9 Go Reviews](https://9x9go.github.io/reviews) is a journal template to publish the results of WGA's 9 x 9 Go experimens, which was intended to determine how the game of 9 x 9 is best played. This repository shows our study notes, ideas, facts, hypotheses, theorems, theories, laws, and proverbs, learned from the games of 9 Dan professional players and superhuman players. Full results are to be reported in _The Art of 9 x 9 Go, Superhuman Edition_ (PDF) at [http://www.9x9go.org](http://www.9x9go.org)
+ [9 x 9 Go Reviews](https://9x9go.github.io/reviews) is a template to publish the results of WGA's 9 x 9 Go experimens, to determine how the game of 9 x 9 Go is best played. This repository includes the codes for our study notes, ideas, facts, hypotheses, theorems, theories, laws, and proverbs, learned from the games of the top professional Go players and the strongest superhuman 9 x 9 Go player, KataGo. Full results are to be reported in _The Art of 9 x 9 Go, Superhuman Edition_ (PDF) at [http://www.9x9go.org](http://www.9x9go.org)
 
 # Acknowledgement
 We thank gratefully the following Go people:
