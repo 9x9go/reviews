@@ -2,15 +2,13 @@
  [9 x 9 Go Reviews](https://9x9go.github.io/reviews) is a template to publish the results of WGA's 9 x 9 Go research, which explains how the game of 9 x 9 Go is best played. Full results are to be reported in _The Art of 9 x 9 Go, Superhuman Edition_ (PDF) at [http://www.9x9go.org](http://www.9x9go.org)
 
 # Acknowledgement
-We thank gratefully the following Go people:
+We thank:
 - [David J. Wu ("Lightvector")](https://github.com/lightvector) and contributors for making [KataGo](https://github.com/lightvector/KataGo), the strongest open source superhuman Go bot.
 - [Yuji Ichikawa](https://github.com/y-ich) for kind permission on the use of [A Master of Go](https://apps.apple.com/us/app/a-master-of-go/id1442035374), with KataGo run on iOS.
 - Yasushi Tanase for creating the best 9 x 9 Go server, [Go Quest](http://wars.fm/go9).
 - [Gillles Arcas](https://github.com/GillesArcas) for giving the open source Go diagram editing freeware, [Drago](https://godrago.net/)
 - [Arno Hollosi](https://senseis.xmp.net/?ArnoHollosi), [Morten Pahle](https://senseis.xmp.net/?MortenPahle), and others who create contents on the [Sensei's Library](https://senseis.xmp.net/), which provide valuable Go information.
 - Justin Kramer's [Eidogo](http://www.eidogo.com) for SGF viewer code  
-
-We also gratefully thank the following organizations
 - GitHubm Inc, for free web hosting and code environment 
 - Population2 for generously giving the well-designed website template.
 - Google, Inc. for free E-mail account, mailbox space, and web host service.
