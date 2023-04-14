@@ -28,9 +28,9 @@ We also gratefully thank the following organizations
 - Population2 for generously giving the well-designed website template.
 - Google, Inc. for free E-mail account, mailbox space, and web host service.
 
-# Principles of 9 x 9 Go
-## 9 x 9 Go Principles
-Principles of 9 x 9 Go explain how the game of 9 x 9 Go is actually played. 
+# A Study Note on 9 x 9 Go
+## 9 x 9 Go Rules
+The rules of 9 x 9 Go describes what Go players are allowed to do when playing Go on 9 x 9 board.
 1. [The rules of 9 x 9 Go](https://9x9go.github.io/reviews/pdf/P001.pdf)
 
 ## 9 x 9 Go Proverbs
