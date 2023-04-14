@@ -1,7 +1,7 @@
 # 9 x 9 Go Reviews
  [9 x 9 Go Reviews](https://9x9go.github.io/reviews) publishes the results of WGA's 9 x 9 Go experimens, which was intended to determine how the game of 9 x 9 is best played. This repository shows our study notes, ideas, facts, hypotheses, theorems, theories, laws, and proverbs, learned from the games of 9 Dan professional players and superhuman players. Researcher team includes [Monteo da Westi](http://wars.fm/go9#user/monteodawesti), J. K. Pon, and [A Master of Go](https://apps.apple.com/us/app/a-master-of-go/id1442035374) that exploits KataGo engine (v1.12.4) and the verified neural network ([the strongest confidently-rated network: kata1-b18c384nbt-s5503060480-d3193512631](https://katagotraining.org/networks/kata1/), as of April 2, 2023), of which the older engine with the weaker neural network, [KataTest 9 Dan](http://wars.fm/go9#user/katatest) topped the chart of Go Quest 9 x 9 Go server in Septermber 2019. AMG can top the chart as well, based on the transitive laws and the AMG's game results in March 2023. 
 
-Full results are to be reported in a commercial e-book, _The Art of 9 x 9 Go, Superhuman Edition_., distributed by WGA at [http://www.9x9go.org](http://www.9x9go.org)
+Full results are to be reported in _The Art of 9 x 9 Go, Superhuman Edition_ at [http://www.9x9go.org](http://www.9x9go.org)
 
 # Acknowledgement
 We thank gratefully the following Go people:
