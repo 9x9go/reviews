@@ -9,7 +9,7 @@ We thank:
 - [Gillles Arcas](https://github.com/GillesArcas) for giving the open source Go diagram editing freeware, [Drago](https://godrago.net/)
 - [Arno Hollosi](https://senseis.xmp.net/?ArnoHollosi), [Morten Pahle](https://senseis.xmp.net/?MortenPahle), and others who create contents on the [Sensei's Library](https://senseis.xmp.net/), which provide valuable Go information.
 - Justin Kramer's [Eidogo](http://www.eidogo.com) for SGF viewer code  
-- GitHubm Inc, for free web hosting and code environment 
+- GitHub, Inc, for web hosting and coding environment.
 - Population2 for generously giving the well-designed website template.
 - Google, Inc. for free E-mail account, mailbox space, and web host service.
 - [Chart.js](https://github.com/chartjs/Chart.js) for the line chart code.
