@@ -1,5 +1,5 @@
 # 9 x 9 Go Reviews
- [9 x 9 Go Reviews](https://9x9go.github.io/reviews) is a template to publish the results of WGA's 9 x 9 Go experimens, to determine how the game of 9 x 9 Go is best played. Full results are to be reported in _The Art of 9 x 9 Go, Superhuman Edition_ (PDF) at [http://www.9x9go.org](http://www.9x9go.org)
+ [9 x 9 Go Reviews](https://9x9go.github.io/reviews) is a template to publish the results of WGA's 9 x 9 Go research, which explains how the game of 9 x 9 Go is best played. Full results are to be reported in _The Art of 9 x 9 Go, Superhuman Edition_ (PDF) at [http://www.9x9go.org](http://www.9x9go.org)
 
 # Acknowledgement
 We thank gratefully the following Go people:
