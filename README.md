@@ -7,7 +7,7 @@
 - Yasushi Tanase created [Go Quest](http://wars.fm/go9).
 - [Gillles Arcas](https://github.com/GillesArcas) provided the open source Go diagram editing freeware, [Drago](https://godrago.net/)
 - [Arno Hollosi](https://senseis.xmp.net/?ArnoHollosi), [Morten Pahle](https://senseis.xmp.net/?MortenPahle), and others developed the [Sensei's Library](https://senseis.xmp.net/), which provide Go information.
-- Justin Kramer's [Eidogo](http://www.eidogo.com) provided the SGF viewer code  
+- Justin Kramer provided the code of [Eidogo](http://www.eidogo.com), SGF viewer software.
 - GitHub, Inc is the web host and coding environment.
 - Population2 gave the website template (Typo Today).
 - Google, Inc. provided E-mail account, mailbox space, and web host service.
