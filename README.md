@@ -1,18 +1,17 @@
 # 9 x 9 Go Reviews
  [9 x 9 Go Reviews](https://9x9go.github.io/reviews) is a web page to publish the results of WGA's 9 x 9 Go research, which explains how the game of 9 x 9 Go is best played. Full results are to be reported in _The Art of 9 x 9 Go, Superhuman Edition_ (PDF e-book) at [http://www.9x9go.org](http://www.9x9go.org)
 
-# Acknowledgement
-We thank:
-- [David J. Wu ("Lightvector")](https://github.com/lightvector) and contributors for making [KataGo](https://github.com/lightvector/KataGo), the strongest open source superhuman Go bot.
-- [Yuji Ichikawa](https://github.com/y-ich) for kind permission on the use of [A Master of Go](https://apps.apple.com/us/app/a-master-of-go/id1442035374), with KataGo run on iOS.
-- Yasushi Tanase for creating the best 9 x 9 Go server, [Go Quest](http://wars.fm/go9).
-- [Gillles Arcas](https://github.com/GillesArcas) for giving the open source Go diagram editing freeware, [Drago](https://godrago.net/)
-- [Arno Hollosi](https://senseis.xmp.net/?ArnoHollosi), [Morten Pahle](https://senseis.xmp.net/?MortenPahle), and others who create contents on the [Sensei's Library](https://senseis.xmp.net/), which provide valuable Go information.
-- Justin Kramer's [Eidogo](http://www.eidogo.com) for SGF viewer code  
-- GitHub, Inc, for web hosting and coding environment.
-- Population2 for generously giving the well-designed website template.
-- Google, Inc. for free E-mail account, mailbox space, and web host service.
-- [Chart.js](https://github.com/chartjs/Chart.js) for the line chart code.
+# Credits
+- [David J. Wu ("Lightvector")](https://github.com/lightvector) and contributors developed [KataGo](https://github.com/lightvector/KataGo), the strongest open source superhuman Go bot.
+- [Yuji Ichikawa](https://github.com/y-ich) permitted the use of [A Master of Go](https://apps.apple.com/us/app/a-master-of-go/id1442035374), with KataGo run on iOS.
+- Yasushi Tanase created [Go Quest](http://wars.fm/go9).
+- [Gillles Arcas](https://github.com/GillesArcas) provided the open source Go diagram editing freeware, [Drago](https://godrago.net/)
+- [Arno Hollosi](https://senseis.xmp.net/?ArnoHollosi), [Morten Pahle](https://senseis.xmp.net/?MortenPahle), and others developed the [Sensei's Library](https://senseis.xmp.net/), which provide Go information.
+- Justin Kramer's [Eidogo](http://www.eidogo.com) provided the SGF viewer code  
+- GitHub, Inc is the web host and coding environment.
+- Population2 gave the website template (Typo Today).
+- Google, Inc. provided E-mail account, mailbox space, and web host service.
+- [Chart.js](https://github.com/chartjs/Chart.js) provided the line chart code.
 
 # A Study Note on 9 x 9 Go
 ## 9 x 9 Go Rules
