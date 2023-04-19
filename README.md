@@ -1,5 +1,5 @@
 # 9 x 9 Go Reviews
- [9 x 9 Go Reviews](https://9x9go.github.io/reviews) is a web page to publish the results of WGA's 9 x 9 Go research, which explains how the game of 9 x 9 Go is best played. Full results are to be reported in _The Art of 9 x 9 Go, Superhuman Edition_ (PDF e-book) at [http://www.9x9go.org](http://www.9x9go.org)
+ [9 x 9 Go Reviews](https://9x9go.github.io/reviews) is a web page to publish the results of WGA's 9 x 9 Go research, which explains how the game of 9 x 9 Go is best played. 
 
 # Credits
 - [David J. Wu ("Lightvector")](https://github.com/lightvector) and contributors developed [KataGo](https://github.com/lightvector/KataGo), the strongest open source superhuman Go bot.
