@@ -2,16 +2,17 @@
  [9 x 9 Go Reviews](https://9x9go.github.io/reviews) is a web page to publish the results of WGA's 9 x 9 Go research, which explains how the game of 9 x 9 Go is best played. 
 
 # Credits
-- [David J. Wu ("Lightvector")](https://github.com/lightvector) and contributors developed [KataGo](https://github.com/lightvector/KataGo), the strongest open source superhuman Go bot.
-- [Yuji Ichikawa](https://github.com/y-ich) permitted the use of [A Master of Go](https://apps.apple.com/us/app/a-master-of-go/id1442035374), with KataGo run on iOS.
-- Yasushi Tanase created [Go Quest](http://wars.fm/go9).
-- [Gillles Arcas](https://github.com/GillesArcas) provided the open source Go diagram editing freeware, [Drago](https://godrago.net/)
-- [Arno Hollosi](https://senseis.xmp.net/?ArnoHollosi), [Morten Pahle](https://senseis.xmp.net/?MortenPahle), and others developed the [Sensei's Library](https://senseis.xmp.net/), which provide Go information.
-- Justin Kramer provided the code of [Eidogo](http://www.eidogo.com), SGF viewer software.
-- GitHub, Inc is the web host and coding environment.
-- Population2 gave the website template (Typo Today).
-- Google, Inc. provided E-mail account, mailbox space, and web host service.
-- [Chart.js](https://github.com/chartjs/Chart.js) provided the line chart code.
+We thank
+- [David J. Wu ("Lightvector")](https://github.com/lightvector) and contributors for [KataGo](https://github.com/lightvector/KataGo), the strongest open source superhuman Go bot.
+- [Yuji Ichikawa](https://github.com/y-ich) for permission on the use of [A Master of Go](https://apps.apple.com/us/app/a-master-of-go/id1442035374)
+- Yasushi Tanase for [Go Quest](http://wars.fm/go9).
+- [Gillles Arcas](https://github.com/GillesArcas) for the open source Go diagram editing freeware, [Drago](https://godrago.net/)
+- [Arno Hollosi](https://senseis.xmp.net/?ArnoHollosi), [Morten Pahle](https://senseis.xmp.net/?MortenPahle), and others for the [Sensei's Library](https://senseis.xmp.net/)
+- Justin Kramer for the [Eidogo](http://www.eidogo.com), SGF viewer software.
+- GitHub, Inc for the web host and coding environment services
+- Population2 for the website template (Typo Today).
+- Google, Inc. for the E-mail account, mailbox space, and web host service.
+- [Chart.js](https://github.com/chartjs/Chart.js) for the line chart code.
 
 # A Study Note on 9 x 9 Go
 ## 9 x 9 Go Rules
