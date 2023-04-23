@@ -59,7 +59,7 @@ nav{
     display: flex;
     height: 88%;
     flex-direction: column;
-    background-image: url('../images/9x9bg.png');
+    background-image: url('../img/9x9bg.png');
     background-repeat: no-repeat;
     background-position: center center;
     align-items: flex-end;
