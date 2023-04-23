@@ -1,5 +1,5 @@
 # 9 x 9 Go Reviews
- [9 x 9 Go Reviews](https://9x9go.github.io/reviews) publishes the results of WGA's 9 x 9 Go research, which explains how the game of 9 x 9 Go is best played. 
+ [9 x 9 Go Reviews](https://9x9go.github.io/reviews) publishes the results of WGA's 9 x 9 Go research, which explains how the game of 9 x 9 Go is best played by A Master of Go, one of the strongest superhuman Go programs.
 
 # Credits
 We thank
