@@ -1,9 +1,7 @@
-<!Copyright © 2023 Monte da Westi
-MIT License>
-
 <!DOCTYPE html>
 <html>
 <html lang="en">
+<!Copyright © 2023 Monte da Westi | MIT License>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,6 +31,7 @@ MIT License>
   padding: 12px 20px 12px 40px;
   border: 1px solid #ddd;
   margin-bottom: 12px;
+  font-color: white;
 }
 
 #Answer {
@@ -77,17 +76,17 @@ MIT License>
  <div class="scrollable" id="myScrollable">
       <div id="chatting" class="chatting">
 
-<input type="text" id="Question" onkeyup="myFunction()" placeholder="How to purchase the e-book" disabled style="background-color:#C0C0C0">
+<input id="Question" type="text" onkeyup="myFunction()" placeholder="How to purchase the e-book" style="background-color:#C0C0C0;">
 
 <ul id="Answer">
-  <li><a href="#"><h2>The Art of 9 x 9 Go</h2><br><i>Superhuman Edition</i><font color="red"><br>$99.00</font> (PDF) <br>Order at:<br>
+  <li><a href="#"><b>The Art of 9 x 9 Go</b><br><i>Superhuman Edition</i><font color="red"><br>$99.00</font> (PDF) <br><br><b>Order at:</b><br>
 
-<textarea id="myEmail" cols="22" style="--textarea-height:8em;width:25em;text-align:center;height:var(--textarea-height);padding:calc(var(--textarea-height)/2)0;overflow:hidden;box-sizing:boarder-box;">monteodawesti@gmail.com</textarea>
+<textarea id="myEmail" cols="22" style="--textarea-height:3em;width:18em;text-align:center;height:var(--textarea-height);padding:calc(var(--textarea-height)/4)0;overflow:hidden;box-sizing:boarder-box;font-size:18px;">monteodawesti@gmail.com</textarea>
 <div>
-  <button onclick="copyMyEmail()">Copy the Email</button>
+  <button onclick="copyMyEmail()">Copy Email Address</button>
 </div>
 <br>
-Free parts at: <a href="http://9x9go.github.io/reviews">9 &#215 9 Go Reviews repository</a>
+ <a href="http://9x9go.github.io/reviews"><b>Free Edition:</b><br>9 &#215 9 Go Reviews repository</a>
 <script>
 function copyMyEmail() {
   const element = document.querySelector('#myEmail');
