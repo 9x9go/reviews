@@ -13,6 +13,7 @@ We thank
 - Population2 for the website template (Typo Today).
 - Google, Inc. for the E-mail account, mailbox space, and web host service.
 - [Chart.js](https://github.com/chartjs/Chart.js) for the line chart code.
+- Varshith V Hegde for chatbot code at https://github.com/Varshithvhegde/chatbot/blob/main/index.html 
 
 # A Study Note on 9 x 9 Go
 ## 9 x 9 Go Rules
